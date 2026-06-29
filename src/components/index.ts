@@ -1,0 +1,6 @@
+export { default as HomePage } from './HomePage'
+export { default as UnitPractice } from './UnitPractice'
+export { default as MixedPractice } from './MixedPractice'
+export { default as SimulationPractice } from './SimulationPractice'
+export { default as QuizComponent } from './QuizComponent'
+export { default as MistakesBook } from './MistakesBook'
