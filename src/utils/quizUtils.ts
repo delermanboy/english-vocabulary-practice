@@ -307,7 +307,8 @@ export function generateUnitQuiz(
 export function generateMixedQuiz(
   vocabulary: VocabularyData,
   unitNames: string[],
-  questionCount?: number
+  questionCount?: number,
+  fixedDistractors?: number
 ): QuizResult {
   const pool = vocabulary.words.filter(
     w => unitNames.includes(w.unit) && w.examples.length > 0
@@ -334,7 +335,7 @@ export function generateMixedQuiz(
     };
   });
 
-  const extraDistractors = Math.max(3, Math.min(8, Math.floor(selected.length * 0.5)));
+  const extraDistractors = fixedDistractors ?? Math.max(3, Math.min(8, Math.floor(selected.length * 0.5)));
   const options = buildOptions(selected, vocabulary.words, extraDistractors);
 
   return { questions, options };
@@ -346,7 +347,8 @@ export function generateSimulationQuiz(
 ): QuizResult {
   // If no units specified, use all units
   const names = unitNames ?? vocabulary.units.map(u => u.name);
-  return generateMixedQuiz(vocabulary, names);
+  // Fixed 15 questions + 5 distractors = 20 options for a standardized test feel
+  return generateMixedQuiz(vocabulary, names, 15, 5);
 }
 
 export function calculateScore(
