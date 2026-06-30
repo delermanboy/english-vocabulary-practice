@@ -17,12 +17,23 @@ function formatTime(seconds: number): string {
   return `${m}:${s.toString().padStart(2, '0')}`
 }
 
+function useIsMobile() {
+  const [isMobile, setIsMobile] = useState(() => window.innerWidth <= 640)
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth <= 640)
+    window.addEventListener('resize', handleResize)
+    return () => window.removeEventListener('resize', handleResize)
+  }, [])
+  return isMobile
+}
+
 function QuizComponent({
   quizState,
   onSelectAnswer,
   onReset,
   onQuizComplete
 }: QuizComponentProps) {
+  const isMobile = useIsMobile()
   const [showResults, setShowResults] = useState(false)
   const [results, setResults] = useState<{
     score: number
@@ -215,8 +226,8 @@ function QuizComponent({
       <div style={{
         display: 'flex',
         flexWrap: 'wrap',
-        gap: '6px',
-        marginBottom: '20px',
+        gap: isMobile ? '4px' : '6px',
+        marginBottom: isMobile ? '12px' : '20px',
         justifyContent: 'center'
       }}>
         {quizState.questions.map((q, idx) => {
@@ -227,11 +238,11 @@ function QuizComponent({
               key={q.id}
               onClick={() => setCurrentIndex(idx)}
               style={{
-                width: '32px',
-                height: '32px',
+                width: isMobile ? '28px' : '32px',
+                height: isMobile ? '28px' : '32px',
                 borderRadius: '50%',
                 border: 'none',
-                fontSize: '0.8rem',
+                fontSize: isMobile ? '0.7rem' : '0.8rem',
                 fontWeight: 700,
                 cursor: 'pointer',
                 transition: 'all 0.2s',
@@ -251,20 +262,20 @@ function QuizComponent({
       </div>
 
       {/* Current question */}
-      <div className="question-card" style={{ marginBottom: '24px' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+      <div className="question-card" style={{ marginBottom: isMobile ? '16px' : '24px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: isMobile ? '8px' : '12px' }}>
           <span className="question-number">第 {currentIndex + 1} / {totalCount} 题</span>
           {currentAnswer && (
-            <span style={{ color: '#11998e', fontWeight: 600, fontSize: '0.9rem' }}>✓ 已作答</span>
+            <span style={{ color: '#11998e', fontWeight: 600, fontSize: isMobile ? '0.8rem' : '0.9rem' }}>✓ 已作答</span>
           )}
         </div>
-        <div className="sentence" style={{ fontSize: '1.4rem', lineHeight: 2 }}>
+        <div className="sentence" style={{ fontSize: isMobile ? '1.05rem' : '1.4rem', lineHeight: isMobile ? 1.6 : 2 }}>
           {(() => {
             const parts = currentQuestion.sentence.split('_____')
             return (
               <>
                 {parts[0] || ''}
-                <span className={`blank ${currentAnswer ? 'filled' : ''}`} style={{ fontSize: '1.2rem' }}>
+                <span className={`blank ${currentAnswer ? 'filled' : ''}`} style={{ fontSize: isMobile ? '0.95rem' : '1.2rem' }}>
                   {currentAnswer || '_____'}
                 </span>
                 {parts[1] || ''}
@@ -275,14 +286,14 @@ function QuizComponent({
       </div>
 
       {/* Options with POS hint and usage state */}
-      <div className="card" style={{ marginBottom: '20px' }}>
-        <h3 className="section-title" style={{ fontSize: '1.1rem', marginBottom: '16px' }}>
-          📝 选择正确答案 <span style={{ fontWeight: 400, color: '#888', fontSize: '0.85rem' }}>(按数字键 1-{Math.min(quizState.options.length, 9)} 快速选择)</span>
+      <div className="card" style={{ marginBottom: isMobile ? '12px' : '20px', padding: isMobile ? '12px' : undefined }}>
+        <h3 className="section-title" style={{ fontSize: isMobile ? '1rem' : '1.1rem', marginBottom: isMobile ? '10px' : '16px' }}>
+          📝 选择正确答案 {!isMobile && <span style={{ fontWeight: 400, color: '#888', fontSize: '0.85rem' }}>(按数字键 1-{Math.min(quizState.options.length, 9)} 快速选择)</span>}
         </h3>
         <div style={{
           display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
-          gap: '10px'
+          gridTemplateColumns: isMobile ? '1fr' : 'repeat(auto-fill, minmax(200px, 1fr))',
+          gap: isMobile ? '6px' : '10px'
         }}>
           {quizState.options.map((word, idx) => {
             // Find the word object to get POS
@@ -297,9 +308,9 @@ function QuizComponent({
                 key={idx}
                 onClick={() => handleOptionClick(word)}
                 style={{
-                  padding: '14px 16px',
+                  padding: isMobile ? '10px 12px' : '14px 16px',
                   border: isSelected ? '2px solid #667eea' : isUsedByOther ? '2px solid #e0e0e0' : '2px solid #e0e0e0',
-                  borderRadius: '12px',
+                  borderRadius: isMobile ? '10px' : '12px',
                   background: isSelected ? 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)' : isUsedByOther ? '#f5f5f5' : 'white',
                   color: isSelected ? 'white' : isUsedByOther ? '#999' : '#333',
                   cursor: 'pointer',
@@ -307,7 +318,7 @@ function QuizComponent({
                   textAlign: 'left',
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '10px',
+                  gap: isMobile ? '8px' : '10px',
                   opacity: isUsedByOther ? 0.7 : 1,
                   boxShadow: isSelected ? '0 4px 12px rgba(102,126,234,0.3)' : 'none',
                   position: 'relative'
@@ -317,20 +328,20 @@ function QuizComponent({
                   display: 'inline-flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  width: '24px',
-                  height: '24px',
+                  width: isMobile ? '20px' : '24px',
+                  height: isMobile ? '20px' : '24px',
                   borderRadius: '6px',
                   background: isSelected ? 'rgba(255,255,255,0.2)' : isUsedByOther ? '#e0e0e0' : '#f0f0f0',
-                  fontSize: '0.75rem',
+                  fontSize: isMobile ? '0.65rem' : '0.75rem',
                   fontWeight: 700,
                   flexShrink: 0
                 }}>
                   {idx + 1}
                 </span>
                 <div style={{ minWidth: 0, flex: 1 }}>
-                  <div style={{ fontWeight: 600, fontSize: '1rem', wordBreak: 'break-word' }}>{word}</div>
+                  <div style={{ fontWeight: 600, fontSize: isMobile ? '0.9rem' : '1rem', wordBreak: 'break-word' }}>{word}</div>
                   {pos && (
-                    <div style={{ fontSize: '0.75rem', opacity: isSelected ? 0.8 : isUsedByOther ? 0.5 : 0.5, marginTop: '2px' }}>
+                    <div style={{ fontSize: isMobile ? '0.7rem' : '0.75rem', opacity: isSelected ? 0.8 : isUsedByOther ? 0.5 : 0.5, marginTop: '2px' }}>
                       {pos}
                     </div>
                   )}

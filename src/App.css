@@ -331,20 +331,159 @@
   margin-top: 20px;
 }
 
-@media (max-width: 768px) {
+/* ============================================
+   Mobile Optimizations (max-width: 640px)
+   ============================================ */
+@media (max-width: 640px) {
+  .app {
+    padding: 8px;
+  }
+
+  .container {
+    padding: 0;
+  }
+
+  .header {
+    padding: 16px 8px;
+    margin-bottom: 16px;
+  }
+
   .header h1 {
-    font-size: 2rem;
+    font-size: 1.6rem;
+  }
+
+  .header p {
+    font-size: 0.9rem;
+  }
+
+  .card {
+    padding: 16px;
+    border-radius: 14px;
+    margin-bottom: 12px;
+  }
+
+  .section-title {
+    font-size: 1.15rem;
+    margin-bottom: 14px;
+    padding-bottom: 8px;
   }
 
   .mode-grid {
     grid-template-columns: 1fr;
+    gap: 12px;
+    margin-top: 16px;
+  }
+
+  .mode-card {
+    padding: 16px;
+    border-radius: 12px;
+  }
+
+  .mode-card h3 {
+    font-size: 1.15rem;
+    margin-bottom: 6px;
+  }
+
+  .mode-card p {
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .btn {
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+  }
+
+  .btn-back {
+    margin-bottom: 12px;
+    padding: 8px 14px;
+    font-size: 0.85rem;
+  }
+
+  .unit-selector {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    margin: 16px 0;
+  }
+
+  .unit-btn {
+    padding: 10px 8px;
+    font-size: 0.85rem;
+    border-radius: 10px;
+  }
+
+  .quiz-container {
+    margin-top: 12px;
+  }
+
+  .question-card {
+    padding: 14px;
+    border-radius: 10px;
+    border-left-width: 3px;
+  }
+
+  .question-number {
+    font-size: 0.8rem;
+    margin-bottom: 8px;
   }
 
   .sentence {
-    font-size: 1.1rem;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+
+  .blank {
+    min-width: 72px;
+    padding: 4px 10px;
+    font-size: 0.9rem;
+    border-radius: 6px;
+  }
+
+  .results-card {
+    padding: 24px 16px;
+    border-radius: 12px;
+    margin-bottom: 16px;
+  }
+
+  .results-card h2 {
+    font-size: 1.3rem;
   }
 
   .score-display {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    margin: 12px 0;
+  }
+
+  .score-info {
+    font-size: 0.9rem;
+  }
+
+  .explanation {
+    padding: 12px;
+    margin-top: 12px;
+  }
+
+  .explanation h4 {
+    font-size: 0.9rem;
+  }
+
+  .explanation p {
+    font-size: 0.85rem;
+  }
+
+  .wrong-answers {
+    margin-top: 16px;
+  }
+
+  .wrong-answers h3 {
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+  }
+
+  .actions {
+    gap: 8px;
+    margin-top: 16px;
   }
 }
