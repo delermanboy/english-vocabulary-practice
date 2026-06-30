@@ -1,15 +1,330 @@
 {
   "words": [
     {
-      "word": "location",
-      "pos": "n.",
-      "definition": "a particular place or position 地点，场所",
+      "word": "accordingly",
+      "pos": "ad.",
+      "definition": "in a suitable manner; consequently, therefore 相应地；因此；从而",
       "examples": [
-        "The witness pointed out the exact location of the accident to the police.",
-        "Witnesses showed the police the exact location of the accident.",
-        "The school is going to move to a new location."
+        "When we receive your instructions we will act accordingly.",
+        "Someone has hacked into the university mail system. We suggest that you change your passwords accordingly.",
+        "Watch out for sharp bends and adjust your speed accordingly."
       ],
-      "unit": "Unit 1"
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "anniversary",
+      "pos": "n.",
+      "definition": "周年纪念日",
+      "examples": [
+        "It was their 25th wedding anniversary last Saturday.",
+        "We are planning a dinner to celebrate the 50th anniversary of the founding of the company."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "approve",
+      "pos": "v.",
+      "definition": "believe that sb. or sth. is good or suitable; agree officially to 赞成；同意；批准",
+      "examples": [
+        "You may not approve of what he did, but he’s still your brother.",
+        "It’s very difficult to say no to you as you can imagine, but I am not in a position to approve your proposal."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "at the turn of the century",
+      "pos": "",
+      "definition": "at the beginning of a new century 在世纪初",
+      "examples": [
+        "Her family moved to America at the turn of the century.",
+        "The young painter embraced Marxism at the turn of the century."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "believe in",
+      "pos": "",
+      "definition": "have confidence in; be sure that sb. or sth. exists 对…有信心；信仰，信任",
+      "examples": [
+        "The school believes in letting children learn at their own pace.",
+        "To tell you the truth, I don’t believe in private hospitals which claim to be able to cure any disease."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "beyond (any) doubt",
+      "pos": "",
+      "definition": "certain(ly) 毫无疑问",
+      "examples": [
+        "His honesty is quite beyond doubt.",
+        "The research showed beyond doubt that smoking contributes to heart disease."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "caution",
+      "pos": "n.",
+      "definition": "great care and attention 小心，谨慎",
+      "examples": [
+        "Statistics should be treated with caution.",
+        "You must exercise/use extreme caution when crossing this road."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "combine",
+      "pos": "v.",
+      "definition": "join to form a single unit or substance（使）结合；（使）联合",
+      "examples": [
+        "None of us has much money so let’s combine what we’ve got.",
+        "These normally harmless substances combine to form a highly poisonous gas."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "come to/reach a conclusion",
+      "pos": "",
+      "definition": "得出结论",
+      "examples": [
+        "Did you come to/reach any conclusions at the meeting this morning?",
+        "At first I thought he was a bit shy, but I’ve come to the conclusion that he’s simply unfriendly!"
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "concentrate",
+      "pos": "v.",
+      "definition": "bring to a common point of union; bring all efforts to bear on one activity 聚集；聚精会神",
+      "examples": [
+        "The company is concentrating its resources on developing new products.",
+        "It’s a good film, but the plot is very complicated and you really have to concentrate."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "credit sth. to sb./sth.",
+      "pos": "",
+      "definition": "把…归于",
+      "examples": [
+        "She credited her recovery to an innovative treatment.",
+        "The invention of the medical robot is credited to this company."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "doze off",
+      "pos": "",
+      "definition": "fall into a light sleep 打瞌睡，打盹儿",
+      "examples": [
+        "The office was so hot I nearly dozed off at my desk.",
+        "That old man settled himself down comfortably in an armchair in front of the door and began to doze off."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "fabric",
+      "pos": "n.",
+      "definition": "织物，织品",
+      "examples": [
+        "Never dry underwear over direct heat; it will weaken the fabric.",
+        "The fabric is strong enough to withstand harsh processing."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "flaw",
+      "pos": "n.",
+      "definition": "a mistake, mark, or weakness that makes sth. imperfect 缺陷",
+      "examples": [
+        "There’s a fatal flaw in your reasoning.",
+        "The only flaw in his character seems to be a short temper."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "foundation",
+      "pos": "n.",
+      "definition": "a basic idea, principle, etc. that sth. develops from 基础；基本原理",
+      "examples": [
+        "All theories should be built on a foundation of factual knowledge.",
+        "The company sees technology and talented personnel as the foundation of its development."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "if anything",
+      "pos": "",
+      "definition": "if there is anything different; on the contrary even 要说有什么区别的话；甚至正相反",
+      "examples": [
+        "Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.",
+        "Joe isn’t a bad boy. If anything, he’s a pretty good one."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "imagination",
+      "pos": "n.",
+      "definition": "想象力",
+      "examples": [
+        "My younger son has a very vivid imagination.",
+        "I can never make up stories — I have absolutely no imagination."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "impressive",
+      "pos": "a.",
+      "definition": "having a strong effect on sb., esp. through size, importance, etc. 给人以深刻印象的",
+      "examples": [
+        "There are some very impressive buildings in the town.",
+        "That was an impressive performance from such a young tennis player."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "in a row",
+      "pos": "",
+      "definition": "in a continuous, uninterrupted series 连续地",
+      "examples": [
+        "I felt a little bit tired after flying two days in a row, but my tiredness was totally replaced by excitement at seeing the splendid view.",
+        "You lost eight points in a row at the beginning of the match. Could you talk about how nervous you were?"
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "inspiration",
+      "pos": "n.",
+      "definition": "灵感",
+      "examples": [
+        "Both poets drew their inspiration from the countryside.",
+        "The golden autumn light provided the inspiration for the painting."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "intelligent",
+      "pos": "a.",
+      "definition": "having high intelligence, clever 有才智的；聪颖的",
+      "examples": [
+        "Man is still far more intelligent than the cleverest robot.",
+        "She’s obviously very intelligent, but her lectures are difficult to follow."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "intuition",
+      "pos": "n.",
+      "definition": "直觉",
+      "examples": [
+        "I had an intuition that something awful was about to happen.",
+        "Intuition told her it was unwise to argue."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "mess",
+      "pos": "n.",
+      "definition": "a dirty or untidy state of things 脏乱状态",
+      "examples": [
+        "He always makes a terrible mess when he’s cooking.",
+        "David’s house is always in a mess.",
+        "Only the best of friends will stay after the party’s over to help clean up the mess."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "not give/care a fig (for sb./sth.)",
+      "pos": "",
+      "definition": "not be at all concerned about or interested in (sth. or sb.) 对…毫不在乎",
+      "examples": [
+        "They can say what they like. I don’t give a fig.",
+        "She wouldn’t give a fig for her neighbors’ gossip."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "outbreak",
+      "pos": "n.",
+      "definition": "a sudden or violent start of sth. unwelcome, such as disease（疾病等的）爆发",
+      "examples": [
+        "Outbreaks of rain are expected in the afternoon.",
+        "This evidence supports their opinion that the outbreak of violence was prearranged."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "presence",
+      "pos": "n.",
+      "definition": "出席，到场",
+      "examples": [
+        "The document was signed in the presence of two witnesses.",
+        "The presence of pollen in the atmosphere causes asthma in some people."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "puzzle",
+      "pos": "n.",
+      "definition": "a situation that is difficult to understand 难题；谜",
+      "examples": [
+        "Scientists have been trying to solve this puzzle for years.",
+        "She had a complex personality that was a real puzzle to me."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "remarkable",
+      "pos": "a.",
+      "definition": "worthy of attention; striking 值得注意的；非凡的",
+      "examples": [
+        "She has remarkable powers of observation.",
+        "The 20th century was remarkable for its inventions."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "stimulate",
+      "pos": "vt.",
+      "definition": "make (sb.) interested and excited 使兴奋；刺激",
+      "examples": [
+        "The government plans to cut taxes in order to stimulate the economy.",
+        "Good teachers should ask questions that stimulate students to think."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "strain",
+      "pos": "vt.",
+      "definition": "make (a situation or relationship) more difficult; stretch tightly by pulling使紧张；绷紧",
+      "examples": [
+        "The current trade dispute has strained relations between the two countries.",
+        "I would welcome some help but don’t strain yourself!",
+        "The sudden influx of visitors is straining hotels in the town to the limit."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "talent",
+      "pos": "n.",
+      "definition": "天赋；天才",
+      "examples": [
+        "She showed her talent for music at an early age.",
+        "His artistic talents were wasted in his boring job."
+      ],
+      "unit": "Book1 Unit 6"
+    },
+    {
+      "word": "undermine",
+      "pos": "vt.",
+      "definition": "weaken or ruin secretly or gradually 暗中破坏；逐渐损害",
+      "examples": [
+        "I don’t want to do something that would undermine the chances of success.",
+        "He’s been trying to undermine her authority by spreading rumours about her.",
+        "You’ll get nowhere if you follow his instruction.",
+        "Bad manners will get you nowhere (= will not help you to succeed).",
+        "If you want to get anywhere, you’ve got to work hard."
+      ],
+      "unit": "Book1 Unit 6"
     },
     {
       "word": "address",
@@ -20,54 +335,23 @@
         "When you address the audience, you could start off with a question to take hold of their attention.",
         "I don’t like being addressed as “Hi beautiful”. I’m more than my looks.",
         "What does science say are ways to address climate change?",
-        "The number of arrests is up as the police work to address crime and disorder."
+        "The number of arrests is up as the police work to address crime and disorder.",
+        "e.g. When you address the audience, you could start off with a question to take hold of their attention.",
+        "e.g. What does science say are ways to address climate change?"
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "embarrass",
-      "pos": "vt.",
-      "definition": "make sb. feel uncomfortable or ashamed 使…尴尬",
-      "examples": [
-        "Don't embarrass me by mentioning my mistake again.",
-        "I was totally embarrassed when my cousin told me I had spinach in my teeth.",
-        "Don’t embarrass me by mentioning my mistake again."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "dumb",
+      "word": "annual",
       "pos": "a.",
-      "definition": "foolish or stupid 愚蠢的",
+      "definition": "happening once a year 年度的",
       "examples": [
-        "Don't be so dumb. You can't get a loan from the bank if you are laid off.",
-        "He was so dumb that he left his keys at home again.",
-        "Don’t be so dumb. You can’t get a loan from the bank if you are laid off.",
-        "Children born deaf and dumb can nowadays be taught to speak and lip-read.",
-        "Martin was born dumb, yet still he managed to get a good job."
+        "The Spring Festival has always been our annual family reunion.",
+        "The Spring Festival is always the time for our annual family reunion.",
+        "Some credit cards charge an annual fee.",
+        "e.g. The Spring Festival is always the time for our annual family reunion."
       ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "consist",
-      "pos": "vi.",
-      "definition": "be made up of 由…组成",
-      "examples": [
-        "The committee consists of ten members from different departments.",
-        "The book consists of 100 essays written over the last twenty years.",
-        "The committee consists of scientists and engineers."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "typical",
-      "pos": "a.",
-      "definition": "having the usual features 典型的",
-      "examples": [
-        "Sleeplessness, digestion problems, unhealthy weight gain or loss, and muscle tension are all typical symptoms of stress.",
-        "In a typical day at the library I help people borrow books from other libraries and obtain articles from journals we don’t have subscriptions to."
-      ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "assure",
@@ -76,22 +360,20 @@
       "examples": [
         "The salesman assured her that all video editing software was available on this computer.",
         "The salesperson assured her that the computer had all the software to do video editing.",
-        "I can assure you that my father has never heard of the Beatles."
+        "I can assure you that my father has never heard of the Beatles.",
+        "e.g. The salesperson assured her that the computer had all the software to do video editing."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "fade",
-      "pos": "vi.",
-      "definition": "lose brightness or color 变暗淡，褪色",
+      "word": "at any rate",
+      "pos": "",
+      "definition": "whatever may happen, in any case 无论如何，不管怎样",
       "examples": [
-        "All colors fade, especially in direct sunlight.",
-        "All colors fade — especially under the impact of direct sunlight.",
-        "The sunlight gradually faded.",
-        "Her enthusiasm for early-morning exercises faded as the weather was getting colder and colder.",
-        "They watched the mountains fade into the darkness."
+        "At any rate, you survived the car accident.",
+        "At any rate, we have done one part of the job."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "bet",
@@ -99,20 +381,10 @@
       "definition": "be sure or certain 敢肯定",
       "examples": [
         "I bet she was late for the meeting on purpose.",
-        "I bet he’ll change his mind again."
+        "I bet he’ll change his mind again.",
+        "e.g. I bet she was late for the meeting on purpose."
       ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "distract",
-      "pos": "vt.",
-      "definition": "take attention away 使分心",
-      "examples": [
-        "Try to keep your hands and mouth busy if you want to distract yourself from thoughts of smoking.",
-        "One way to distract yourself from smoking is keeping your hands and mouth busy. Try some sunflower seeds.",
-        "I was so distracted by the news that I forgot to put on a coat before leaving home."
-      ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "clench",
@@ -121,43 +393,20 @@
       "examples": [
         "Clenching your teeth while sleeping can damage them.",
         "Clenching teeth during sleep can cause damage to teeth.",
-        "Only her clenched hands showed how hard she was trying to hang on to self-control."
+        "Only her clenched hands showed how hard she was trying to hang on to self-control.",
+        "e.g. Clenching teeth during sleep can cause damage to teeth."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "hysterical",
-      "pos": "a.",
-      "definition": "showing extreme emotion 歇斯底里的",
+      "word": "come over",
+      "pos": "",
+      "definition": "(of a strong feeling) take hold of (sb.) suddenly（某种感觉）突然影响（某人）",
       "examples": [
-        "She became hysterical when she heard the bad news.",
-        "She was so hysterical that the 911 operator had difficulty understanding what had happened.",
-        "Many American parents became hysterical about campus shootings."
+        "A great sense of calm came over me when I learned that I was not held responsible for the accident.",
+        "He has never been so rude to me. What’s come over him?"
       ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "somewhat",
-      "pos": "ad.",
-      "definition": "more than a little but not much 有几分",
-      "examples": [
-        "The spokesman seemed somewhat embarrassed and blushed.",
-        "The speaker seemed somewhat embarrassed, and his face reddened.",
-        "Feeling somewhat angry, Phil ignored the pet cat upon returning home."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "glorious",
-      "pos": "a.",
-      "definition": "wonderful or splendid 极好的",
-      "examples": [
-        "It would be a shame to stay indoors on such a glorious day.",
-        "It seems a pity to stay indoors on such a glorious day.",
-        "Vivid memories of the glorious, romantic sophomore year now came flooding back.",
-        "Liu Hulan is a heroine, and she lived a great life and died a glorious death."
-      ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "community",
@@ -166,86 +415,44 @@
       "examples": [
         "The police work hard to prevent crime and protect the community.",
         "Police work to prevent crime and to protect the lives and property of the people in a community.",
-        "College students have learned a lot by doing community service."
+        "College students have learned a lot by doing community service.",
+        "e.g. Police work to prevent crime and to protect the lives and property of the people in a community."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "welfare",
-      "pos": "n.",
-      "definition": "health, happiness, and good fortune 福利；幸福",
+      "word": "consist",
+      "pos": "vi.",
+      "definition": "be made up of 由…组成",
       "examples": [
-        "Parents should be responsible for their children's welfare.",
-        "Parents are responsible for the welfare of their children.",
-        "Employers should be concerned with the welfare of their employees."
+        "The committee consists of ten members from different departments.",
+        "The book consists of 100 essays written over the last twenty years.",
+        "The committee consists of scientists and engineers.",
+        "e.g. The book consists of 100 essays written over the last twenty years."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "repeatedly",
-      "pos": "ad.",
-      "definition": "again and again 反复地",
+      "word": "consist of",
+      "pos": "",
+      "definition": "be made up of 由…组成",
       "examples": [
-        "We repeatedly asked the staff not to smoke in the office.",
-        "We have repeatedly requested that staff should not be allowed to smoke in the office.",
-        "I have repeatedly warned you not to take the job."
+        "The book consists of 100 essays written over the last twenty years.",
+        "The committee consists of scientists and engineers."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "scheme",
-      "pos": "n.",
-      "definition": "a plan or plot 计划；阴谋",
-      "examples": [
-        "The seemingly profitable scheme turned out to be a fraud, causing great losses to investors.",
-        "The seemingly profitable fund turned out to be a scheme causing considerable losses to many investors.",
-        "The country has yet to work out a scheme for creating employment."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "worthwhile",
-      "pos": "a.",
-      "definition": "important or useful 值得做的",
-      "examples": [
-        "Failure can be a worthwhile experience if you learn from it.",
-        "Failure could be a worthwhile experience if we learn a lesson from it.",
-        "I consider teaching a worthwhile career."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "frank",
-      "pos": "a.",
-      "definition": "open and honest 坦白的，直率的",
-      "examples": [
-        "To be frank, I think you are making a mistake.",
-        "To be frank with you, I think you are making a mistake.",
-        "Our discussions were frank and fruitful."
-      ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "humiliate",
+      "word": "distract",
       "pos": "vt.",
-      "definition": "make sb. feel ashamed 羞辱，使丢脸",
+      "definition": "take attention away 使分心",
       "examples": [
-        "Looking for an apartment can be humiliating, especially for students and young people on a tight budget.",
-        "Apartment hunting can be a painful and humiliating experience, especially for students and other young people on a limited budget.",
-        "He humiliated her by calling her a moron in front of her friends and family."
+        "Try to keep your hands and mouth busy if you want to distract yourself from thoughts of smoking.",
+        "One way to distract yourself from smoking is keeping your hands and mouth busy. Try some sunflower seeds.",
+        "I was so distracted by the news that I forgot to put on a coat before leaving home.",
+        "e.g. One way to distract yourself from smoking is keeping your hands and mouth busy. Try some sunflower seeds."
       ],
-      "unit": "Unit 1"
-    },
-    {
-      "word": "interference",
-      "pos": "n.",
-      "definition": "intervening in the affairs of others 干涉；干扰",
-      "examples": [
-        "Her parents' constant interference in our relationship really annoyed me.",
-        "Her parents’ continual interference in our affairs irritated me.",
-        "Your interference in his private affairs is unreasonable."
-      ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "dread",
@@ -256,9 +463,210 @@
         "Parents were filled with dread by reports of another terrorist attack in a school.",
         "He has always stood in dread of his father.",
         "COVID-19 has now become the most dreaded disease.",
-        "She dreaded making speeches in front of large audiences."
+        "She dreaded making speeches in front of large audiences.",
+        "e.g. Parents were filled with dread by reports of another terrorist attack in a school.",
+        "e.g. COVID-19 has now become the most dreaded disease."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "dumb",
+      "pos": "a.",
+      "definition": "foolish or stupid 愚蠢的",
+      "examples": [
+        "Don't be so dumb. You can't get a loan from the bank if you are laid off.",
+        "He was so dumb that he left his keys at home again.",
+        "Don’t be so dumb. You can’t get a loan from the bank if you are laid off.",
+        "Children born deaf and dumb can nowadays be taught to speak and lip-read.",
+        "Martin was born dumb, yet still he managed to get a good job.",
+        "e.g. He was so dumb that he left his keys at home again.",
+        "e.g. Children born deaf and dumb can nowadays be taught to speak and lip-read."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "embarrass",
+      "pos": "vt.",
+      "definition": "make sb. feel uncomfortable or ashamed 使…尴尬",
+      "examples": [
+        "Don't embarrass me by mentioning my mistake again.",
+        "I was totally embarrassed when my cousin told me I had spinach in my teeth.",
+        "Don’t embarrass me by mentioning my mistake again.",
+        "e.g. I was totally embarrassed when my cousin told me I had spinach in my teeth."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "fade",
+      "pos": "vi.",
+      "definition": "lose brightness or color 变暗淡，褪色",
+      "examples": [
+        "All colors fade, especially in direct sunlight.",
+        "All colors fade — especially under the impact of direct sunlight.",
+        "The sunlight gradually faded.",
+        "Her enthusiasm for early-morning exercises faded as the weather was getting colder and colder.",
+        "They watched the mountains fade into the darkness.",
+        "e.g. All colors fade — especially under the impact of direct sunlight.",
+        "e.g. Her enthusiasm for early-morning exercises faded as the weather was getting colder and colder."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "frank",
+      "pos": "a.",
+      "definition": "open and honest 坦白的，直率的",
+      "examples": [
+        "To be frank, I think you are making a mistake.",
+        "To be frank with you, I think you are making a mistake.",
+        "Our discussions were frank and fruitful.",
+        "e.g. To be frank with you, I think you are making a mistake."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "glorious",
+      "pos": "a.",
+      "definition": "wonderful or splendid 极好的",
+      "examples": [
+        "It would be a shame to stay indoors on such a glorious day.",
+        "It seems a pity to stay indoors on such a glorious day.",
+        "Vivid memories of the glorious, romantic sophomore year now came flooding back.",
+        "Liu Hulan is a heroine, and she lived a great life and died a glorious death.",
+        "e.g. It seems a pity to stay indoors on such a glorious day.",
+        "A glorious death is his, who for his country falls."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "hand down (to sb.)",
+      "pos": "",
+      "definition": "give or leave to people who are younger or come later 把…传下去",
+      "examples": [
+        "The art of story-telling has been handed down from mother to daughter in this family.",
+        "She had some jewelry which had been handed down from her grandmother."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "humiliate",
+      "pos": "vt.",
+      "definition": "make sb. feel ashamed 羞辱，使丢脸",
+      "examples": [
+        "Looking for an apartment can be humiliating, especially for students and young people on a tight budget.",
+        "Apartment hunting can be a painful and humiliating experience, especially for students and other young people on a limited budget.",
+        "He humiliated her by calling her a moron in front of her friends and family.",
+        "e.g. Apartment hunting can be a painful and humiliating experience, especially for students and other young people on a limited budget."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "hysterical",
+      "pos": "a.",
+      "definition": "showing extreme emotion 歇斯底里的",
+      "examples": [
+        "She became hysterical when she heard the bad news.",
+        "She was so hysterical that the 911 operator had difficulty understanding what had happened.",
+        "Many American parents became hysterical about campus shootings.",
+        "e.g. She was so hysterical that the 911 operator had difficulty understanding what had happened."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "in charge of",
+      "pos": "",
+      "definition": "负责，主管",
+      "examples": [
+        "Who is in charge of security at this airport?",
+        "The president personally interviewed him before putting him in charge of the Sales Department."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "in unison",
+      "pos": "",
+      "definition": "acting in the same way at the same time 一致地；一起",
+      "examples": [
+        "The children find it difficult to play their instruments in unison.",
+        "The international community is ready to work in unison against terrorism."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "interference",
+      "pos": "n.",
+      "definition": "intervening in the affairs of others 干涉；干扰",
+      "examples": [
+        "Her parents' constant interference in our relationship really annoyed me.",
+        "Her parents’ continual interference in our affairs irritated me.",
+        "Your interference in his private affairs is unreasonable.",
+        "e.g. Her parents’ continual interference in our affairs irritated me."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "junior",
+      "pos": "",
+      "definition": "1) a. younger (followed by to) 较年幼的",
+      "examples": [
+        "Jane is several years junior to her husband.",
+        "Do you want John Brown Senior or John Brown Junior, the father or the son?",
+        "(Abbr. Jr. or jr. is used after the name of a person who has the same name as his father, e.g. John Brown, Jr.)",
+        "Having worked for five years, Jack is still a junior clerk in the office.",
+        "His plans to get more junior doctors working at weekends sparked the first full walkouts in the hospital’s history."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "keep (sb.) in suspense",
+      "pos": "",
+      "definition": "delay telling (sb.) what they are eager to know 使产生悬念，故意迟迟不告诉",
+      "examples": [
+        "The audience is kept in suspense to the very end of the play.",
+        "I won’t keep you in suspense any longer. Here are the results of the mid-term exam."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "know better (than that/to do sth.)",
+      "pos": "",
+      "definition": "be wise or well-trained enough not to do sth. 明事理而不至于做某事",
+      "examples": [
+        "You left the door unlocked? I thought you’d know better.",
+        "He knew better than to argue with Phil at that moment."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "location",
+      "pos": "n.",
+      "definition": "a particular place or position 地点，场所",
+      "examples": [
+        "The witness pointed out the exact location of the accident to the police.",
+        "Witnesses showed the police the exact location of the accident.",
+        "The school is going to move to a new location.",
+        "e.g. Witnesses showed the police the exact location of the accident."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "narrow down",
+      "pos": "",
+      "definition": "reduce the number or possibilities or choices of 缩小…的范围",
+      "examples": [
+        "Over a hundred applicants will be narrowed down to a short list of five candidates.",
+        "The police department attempted to narrow down the list of suspects."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "over and over",
+      "pos": "",
+      "definition": "repeatedly; many times 一再地；多次",
+      "examples": [
+        "I have turned it over and over in my mind.",
+        "I’ve warned you over and over (again) not to make light of the enemy."
+      ],
+      "unit": "Book2 Unit 1"
     },
     {
       "word": "proof",
@@ -267,106 +675,117 @@
       "examples": [
         "The fingerprints she left at the scene were proof of her guilt.",
         "Her fingerprints left at the scene were proof of her guilt.",
-        "Researchers have found proof that non-smokers can develop cancer by working in smoky rooms."
+        "Researchers have found proof that non-smokers can develop cancer by working in smoky rooms.",
+        "e.g. Her fingerprints left at the scene were proof of her guilt."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "annual",
+      "word": "repeatedly",
+      "pos": "ad.",
+      "definition": "again and again 反复地",
+      "examples": [
+        "We repeatedly asked the staff not to smoke in the office.",
+        "We have repeatedly requested that staff should not be allowed to smoke in the office.",
+        "I have repeatedly warned you not to take the job.",
+        "e.g. We have repeatedly requested that staff should not be allowed to smoke in the office."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "scheme",
+      "pos": "n.",
+      "definition": "a plan or plot 计划；阴谋",
+      "examples": [
+        "The seemingly profitable scheme turned out to be a fraud, causing great losses to investors.",
+        "The seemingly profitable fund turned out to be a scheme causing considerable losses to many investors.",
+        "The country has yet to work out a scheme for creating employment.",
+        "e.g. The seemingly profitable fund turned out to be a scheme causing considerable losses to many investors."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "somewhat",
+      "pos": "ad.",
+      "definition": "more than a little but not much 有几分",
+      "examples": [
+        "The spokesman seemed somewhat embarrassed and blushed.",
+        "The speaker seemed somewhat embarrassed, and his face reddened.",
+        "Feeling somewhat angry, Phil ignored the pet cat upon returning home.",
+        "e.g. The speaker seemed somewhat embarrassed, and his face reddened."
+      ],
+      "unit": "Book2 Unit 1"
+    },
+    {
+      "word": "typical",
       "pos": "a.",
-      "definition": "happening once a year 年度的",
+      "definition": "having the usual features 典型的",
       "examples": [
-        "The Spring Festival has always been our annual family reunion.",
-        "The Spring Festival is always the time for our annual family reunion.",
-        "Some credit cards charge an annual fee."
+        "Sleeplessness, digestion problems, unhealthy weight gain or loss, and muscle tension are all typical symptoms of stress.",
+        "In a typical day at the library I help people borrow books from other libraries and obtain articles from journals we don’t have subscriptions to.",
+        "e.g. In a typical day at the library I help people borrow books from other libraries and obtain articles from journals we don’t have subscriptions to."
       ],
-      "unit": "Unit 1"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "competition",
+      "word": "welfare",
       "pos": "n.",
-      "definition": "contest between rivals 竞赛，比赛",
+      "definition": "health, happiness, and good fortune 福利；幸福",
       "examples": [
-        "The beauty competition will be held in our city next month.",
-        "A beauty competition will be held in our city next month.",
-        "You don’t need to eat so quickly! It’s not a competition."
+        "Parents should be responsible for their children's welfare.",
+        "Parents are responsible for the welfare of their children.",
+        "Employers should be concerned with the welfare of their employees.",
+        "e.g. Parents are responsible for the welfare of their children."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "confront",
-      "pos": "vt.",
-      "definition": "face or deal with 面对；处理",
-      "examples": [
-        "It's an issue we'll have to confront at some point, no matter how unpleasant it is.",
-        "I got very nervous when I was confronted with the TV camera.",
-        "It’s an issue we’ll have to confront at some point, no matter how unpleasant it is."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "highlight",
-      "pos": "n.",
-      "definition": "the best part 最精彩的部分",
-      "examples": [
-        "The highlights of the match will be shown after the news.",
-        "Highlights of the match will be shown after the news."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "grace",
-      "pos": "n.",
-      "definition": "elegance of movement 优美，优雅",
-      "examples": [
-        "The actress moved with natural grace.",
-        "The woman film star has natural grace and elegance.",
-        "She handles her problems with grace and dignity."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "fantasy",
-      "pos": "n.",
-      "definition": "imagination or fancy 幻想",
-      "examples": [
-        "He's always had fantasies about living in a castle.",
-        "She dreamed of going into a fantasy world, where she could be anything she wanted.",
-        "He’s always had fantasies about living in a castle."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "numerous",
+      "word": "worthwhile",
       "pos": "a.",
-      "definition": "very many 许多的",
+      "definition": "important or useful 值得做的",
       "examples": [
-        "She has proved her worth on numerous occasions.",
-        "Online retailers, once rare, are now numerous."
+        "Failure can be a worthwhile experience if you learn from it.",
+        "Failure could be a worthwhile experience if we learn a lesson from it.",
+        "I consider teaching a worthwhile career.",
+        "e.g. Failure could be a worthwhile experience if we learn a lesson from it."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 1"
     },
     {
-      "word": "excitement",
+      "word": "accomplishment",
       "pos": "n.",
-      "definition": "state of being excited 兴奋，激动",
+      "definition": "achievement 成就",
       "examples": [
-        "The whole country was filled with excitement at having the first aircraft carrier.",
-        "The whole nation is filled with excitement for its first aircraft carrier.",
-        "I can’t say I slept well, for the excitement of the previous day made me very wakeful."
+        "The discovery of antibiotics was one of the greatest accomplishments of modern medicine.",
+        "The discovery of antibiotics is one of the great accomplishments of modern medicine.",
+        "His colleagues congratulated him on his wonderful accomplishment and wished him continued success in the future.",
+        "e.g. The discovery of antibiotics is one of the great accomplishments of modern medicine."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "recur",
-      "pos": "vi.",
-      "definition": "happen again 再发生",
+      "word": "alternate",
+      "pos": "a.",
+      "definition": "every other 间隔的；轮流的",
       "examples": [
-        "The theme of love recurs throughout his books.",
-        "The theme of love recurred in many of his books.",
-        "The school authorities warn the student that he will be expelled if this cheating recurs."
+        "We spend Sundays with my parents-in-law on alternate weeks.",
+        "We spend alternate Sundays with my husband’s parents.",
+        "Private cars are banned from the city on alternate days.",
+        "e.g. We spend alternate Sundays with my husband’s parents."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "bring (sb.) back to earth",
+      "pos": "",
+      "definition": "使回到现实中",
+      "examples": [
+        "Emily’s voice brought him back to earth.",
+        "Jack had been chatting online with his friends until his parents knocked on the door and brought him back to earth.",
+        "In his mind’s eye, she is still a shy girl.",
+        "In my mind’s eye, I can still see the house where I was born."
+      ],
+      "unit": "Book2 Unit 2"
     },
     {
       "word": "coincide",
@@ -377,64 +796,22 @@
         "We timed our trip to coincide with my cousin’s wedding.",
         "The art exhibition coincides with the 50th anniversary of his death.",
         "Her views coincide with his on most subjects.",
-        "The kids’ views on life don’t always coincide, but they’re not afraid of voicing their opinions."
+        "The kids’ views on life don’t always coincide, but they’re not afraid of voicing their opinions.",
+        "e.g. We timed our trip to coincide with my cousin’s wedding."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "alternate",
-      "pos": "a.",
-      "definition": "every other 间隔的；轮流的",
-      "examples": [
-        "We spend Sundays with my parents-in-law on alternate weeks.",
-        "We spend alternate Sundays with my husband’s parents.",
-        "Private cars are banned from the city on alternate days."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "dedication",
+      "word": "competition",
       "pos": "n.",
-      "definition": "commitment to a cause 奉献，献身",
+      "definition": "contest between rivals 竞赛，比赛",
       "examples": [
-        "The job requires a high degree of enthusiasm and dedication.",
-        "The job requires a lot of enthusiasm and dedication.",
-        "The manager thanked his staff for their dedication and passion."
+        "The beauty competition will be held in our city next month.",
+        "A beauty competition will be held in our city next month.",
+        "You don’t need to eat so quickly! It’s not a competition.",
+        "e.g. A beauty competition will be held in our city next month."
       ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "determination",
-      "pos": "n.",
-      "definition": "firmness of purpose 决心；毅力",
-      "examples": [
-        "I truly admire her determination to succeed.",
-        "I really admire her determination to succeed.",
-        "Everyone concerned acted with determination and courage."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "reward",
-      "pos": "n.",
-      "definition": "prize or payment 报答；报偿",
-      "examples": [
-        "Whoever finds our dog will receive a reward.",
-        "There’s a reward for whoever finds our pet dog.",
-        "Good leaders will provide rewards and thanks to staff members."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "vain",
-      "pos": "a.",
-      "definition": "too proud of oneself 虚荣的，自负的",
-      "examples": [
-        "Too much praise can make people vain.",
-        "Too much praise can make a person vain.",
-        "She was vain of/about her appearance."
-      ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
       "word": "competitor",
@@ -443,9 +820,58 @@
       "examples": [
         "Mike is a tough competitor and will probably do well in business.",
         "Mike is a tough competitor and will probably do very well in business.",
-        "More than 100 competitors took part in the race."
+        "More than 100 competitors took part in the race.",
+        "e.g. Mike is a tough competitor and will probably do very well in business."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "confront",
+      "pos": "vt.",
+      "definition": "face or deal with 面对；处理",
+      "examples": [
+        "It's an issue we'll have to confront at some point, no matter how unpleasant it is.",
+        "I got very nervous when I was confronted with the TV camera.",
+        "It’s an issue we’ll have to confront at some point, no matter how unpleasant it is.",
+        "e.g. I got very nervous when I was confronted with the TV camera."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "congratulate",
+      "pos": "vt.",
+      "definition": "express pleasure at success 祝贺；庆贺",
+      "examples": [
+        "You should congratulate my wife - she did all the hard work.",
+        "It is my wife you should be congratulating — she did all the hard work.",
+        "His teachers congratulated him on winning the first prize in the speech contest.",
+        "e.g. It is my wife you should be congratulating — she did all the hard work."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "dedication",
+      "pos": "n.",
+      "definition": "commitment to a cause 奉献，献身",
+      "examples": [
+        "The job requires a high degree of enthusiasm and dedication.",
+        "The job requires a lot of enthusiasm and dedication.",
+        "The manager thanked his staff for their dedication and passion.",
+        "e.g. The job requires a lot of enthusiasm and dedication."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "determination",
+      "pos": "n.",
+      "definition": "firmness of purpose 决心；毅力",
+      "examples": [
+        "I truly admire her determination to succeed.",
+        "I really admire her determination to succeed.",
+        "Everyone concerned acted with determination and courage.",
+        "e.g. I really admire her determination to succeed."
+      ],
+      "unit": "Book2 Unit 2"
     },
     {
       "word": "emotion",
@@ -455,53 +881,58 @@
         "Love, joy, hatred, fear, and jealousy are all emotions.",
         "Love, joy, hate, fear and jealousy are all emotions.",
         "Jack is a man of great emotion, easily given to tears.",
-        "His voice was full of emotion as he told us the story of his cherished mother."
+        "His voice was full of emotion as he told us the story of his cherished mother.",
+        "e.g. Love, joy, hate, fear and jealousy are all emotions."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "startle",
-      "pos": "vt.",
-      "definition": "surprise greatly 使大吃一惊",
-      "examples": [
-        "You startled me - I didn't hear you come in.",
-        "You startled me — I didn’t hear you come in.",
-        "He was concentrating on his homework and her voice startled him."
-      ],
-      "unit": "Unit 2"
-    },
-    {
-      "word": "intensity",
+      "word": "excitement",
       "pos": "n.",
-      "definition": "quality of being intense 紧张，强烈",
+      "definition": "state of being excited 兴奋，激动",
       "examples": [
-        "We need to work with greater intensity to meet the deadline.",
-        "In order to finish the job in time, we have to work with greater intensity.",
-        "The mayor didn’t realize the intensity of people’s feelings on the housing issue."
+        "The whole country was filled with excitement at having the first aircraft carrier.",
+        "The whole nation is filled with excitement for its first aircraft carrier.",
+        "I can’t say I slept well, for the excitement of the previous day made me very wakeful.",
+        "e.g. The whole nation is filled with excitement for its first aircraft carrier."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "tension",
+      "word": "fantasy",
       "pos": "n.",
-      "definition": "mental strain 紧张，不安",
+      "definition": "imagination or fancy 幻想",
       "examples": [
-        "Smiling and laughing has been shown to relieve tension and stress.",
-        "We are working under great tension to meet a deadline.",
-        "Exercise is the ideal way to relieve tension after a hard day of mental work."
+        "He's always had fantasies about living in a castle.",
+        "She dreamed of going into a fantasy world, where she could be anything she wanted.",
+        "He’s always had fantasies about living in a castle.",
+        "e.g. She dreamed of going into a fantasy world, where she could be anything she wanted."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "scared",
-      "pos": "a.",
-      "definition": "frightened or afraid 惊恐的，害怕的",
+      "word": "grace",
+      "pos": "n.",
+      "definition": "elegance of movement 优美，优雅",
       "examples": [
-        "I've always been scared of dogs.",
-        "I’ve always been scared of dogs.",
-        "I wanted to ask her for help, but was scared that she might refuse."
+        "The actress moved with natural grace.",
+        "The woman film star has natural grace and elegance.",
+        "She handles her problems with grace and dignity.",
+        "e.g. The woman film star has natural grace and elegance."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "highlight",
+      "pos": "n.",
+      "definition": "the best part 最精彩的部分",
+      "examples": [
+        "The highlights of the match will be shown after the news.",
+        "Highlights of the match will be shown after the news.",
+        "e.g. Highlights of the match will be shown after the news.",
+        "A highlight of his career was serving as China’s ambassador to the UK."
+      ],
+      "unit": "Book2 Unit 2"
     },
     {
       "word": "hug",
@@ -510,9 +941,131 @@
       "examples": [
         "Steve opened the door for her, she got out and hugged him.",
         "Steve opened the car door for her, hugged her as she got out, and they went up to her flat, his arm round her shoulders.",
-        "Mary hugged her teddy bear tightly to her chest."
+        "Mary hugged her teddy bear tightly to her chest.",
+        "e.g. Steve opened the car door for her, hugged her as she got out, and they went up to her flat, his arm round her shoulders."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "intensity",
+      "pos": "n.",
+      "definition": "quality of being intense 紧张，强烈",
+      "examples": [
+        "We need to work with greater intensity to meet the deadline.",
+        "In order to finish the job in time, we have to work with greater intensity.",
+        "The mayor didn’t realize the intensity of people’s feelings on the housing issue.",
+        "e.g. In order to finish the job in time, we have to work with greater intensity."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "media",
+      "pos": "n.",
+      "definition": "(with singular or plural verb) 大众传播媒介",
+      "examples": [
+        "Much of what children learn comes directly from the mass media.",
+        "In my opinion, the main responsibility of the media is to tell the truth."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "numerous",
+      "pos": "a.",
+      "definition": "very many 许多的",
+      "examples": [
+        "She has proved her worth on numerous occasions.",
+        "Online retailers, once rare, are now numerous.",
+        "e.g. She has proved her worth on numerous occasions."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "on one/two/several occasion(s)",
+      "pos": "",
+      "definition": "有一（两、几）次",
+      "examples": [
+        "On several occasions, I attempted to talk with my parents about taking a part-time job, but my mother instantly interrupted me by asking me questions about my studies.",
+        "He drinks far too much. On one occasion I saw him drink a whole bottle of vodka."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "on the other hand",
+      "pos": "",
+      "definition": "used to introduce a contrasting point of view, fact, or situation另一方面",
+      "examples": [
+        "On the one hand, I think the price is fair, but on the other hand, I really can’t afford to spend that much money.",
+        "He’s a good guy. His brother, on the other hand, is a very selfish man."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "pass by",
+      "pos": "",
+      "definition": "go past 经过",
+      "examples": [
+        "I see them pass by my house every day.",
+        "Turn left after you pass by the old church in the middle of town."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "recur",
+      "pos": "vi.",
+      "definition": "happen again 再发生",
+      "examples": [
+        "The theme of love recurs throughout his books.",
+        "The theme of love recurred in many of his books.",
+        "The school authorities warn the student that he will be expelled if this cheating recurs.",
+        "e.g. The theme of love recurred in many of his books."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "reward",
+      "pos": "n.",
+      "definition": "prize or payment 报答；报偿",
+      "examples": [
+        "Whoever finds our dog will receive a reward.",
+        "There’s a reward for whoever finds our pet dog.",
+        "Good leaders will provide rewards and thanks to staff members.",
+        "e.g. There’s a reward for whoever finds our pet dog."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "scared",
+      "pos": "a.",
+      "definition": "frightened or afraid 惊恐的，害怕的",
+      "examples": [
+        "I've always been scared of dogs.",
+        "I’ve always been scared of dogs.",
+        "I wanted to ask her for help, but was scared that she might refuse.",
+        "e.g. I’ve always been scared of dogs."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "startle",
+      "pos": "vt.",
+      "definition": "surprise greatly 使大吃一惊",
+      "examples": [
+        "You startled me - I didn't hear you come in.",
+        "You startled me — I didn’t hear you come in.",
+        "He was concentrating on his homework and her voice startled him.",
+        "e.g. You startled me — I didn’t hear you come in."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "stretch out",
+      "pos": "",
+      "definition": "extend 伸展",
+      "examples": [
+        "Feel free to stretch yourself out on the couch.",
+        "She stretched out her hand and helped the old man stand up from his chair."
+      ],
+      "unit": "Book2 Unit 2"
     },
     {
       "word": "surround",
@@ -521,52 +1074,134 @@
       "examples": [
         "The house is surrounded by trees, so it's not visible from other buildings.",
         "The house is surrounded by trees, so it cannot be seen from any other buildings.",
-        "She sat in an armchair, surrounded by her 12 cats."
+        "She sat in an armchair, surrounded by her 12 cats.",
+        "e.g. The house is surrounded by trees, so it cannot be seen from any other buildings."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 2"
     },
     {
-      "word": "congratulate",
+      "word": "tension",
+      "pos": "n.",
+      "definition": "mental strain 紧张，不安",
+      "examples": [
+        "Smiling and laughing has been shown to relieve tension and stress.",
+        "We are working under great tension to meet a deadline.",
+        "Exercise is the ideal way to relieve tension after a hard day of mental work.",
+        "e.g. Smiling and laughing has been shown to relieve tension and stress."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "vain",
+      "pos": "a.",
+      "definition": "too proud of oneself 虚荣的，自负的",
+      "examples": [
+        "Too much praise can make people vain.",
+        "Too much praise can make a person vain.",
+        "She was vain of/about her appearance.",
+        "e.g. Too much praise can make a person vain."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "work out",
+      "pos": "",
+      "definition": "do physical exercise in order to make one’s body fit and strong 锻炼身体",
+      "examples": [
+        "I plan to work out twice a week.",
+        "Your BMI (body mass index) is high for your age. Time to get up and work out."
+      ],
+      "unit": "Book2 Unit 2"
+    },
+    {
+      "word": "amaze",
       "pos": "vt.",
-      "definition": "express pleasure at success 祝贺；庆贺",
+      "definition": "fill with wonder 使惊奇",
       "examples": [
-        "You should congratulate my wife - she did all the hard work.",
-        "It is my wife you should be congratulating — she did all the hard work.",
-        "His teachers congratulated him on winning the first prize in the speech contest."
+        "You finished all your homework in an hour? You amaze me.",
+        "You’ve done all your homework in an hour? You amaze me.",
+        "The visitors were all amazed at how well the pupils could read and write.",
+        "e.g. You’ve done all your homework in an hour? You amaze me."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "accomplishment",
+      "word": "anticipate",
+      "pos": "vt.",
+      "definition": "look forward to 期待",
+      "examples": [
+        "The organizers of the games anticipate a large crowd.",
+        "The organizers of the sports meet anticipate a large crowd of spectators.",
+        "Tracy did not anticipate having to pay for the ticket.",
+        "e.g. The organizers of the sports meet anticipate a large crowd of spectators."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "assignment",
       "pos": "n.",
-      "definition": "achievement 成就",
+      "definition": "task or job 作业",
       "examples": [
-        "The discovery of antibiotics was one of the greatest accomplishments of modern medicine.",
-        "The discovery of antibiotics is one of the great accomplishments of modern medicine.",
-        "His colleagues congratulated him on his wonderful accomplishment and wished him continued success in the future."
+        "During his internship at the local newspaper, he received an assignment to interview flood victims.",
+        "When he was an intern for a local newspaper, he got a week-long assignment: to interview the flood victims and write a report about them.",
+        "What a challenging assignment it was for a young writer, to write the story of this great hero!",
+        "e.g. When he was an intern for a local newspaper, he got a week-long assignment: to interview the flood victims and write a report about them."
       ],
-      "unit": "Unit 2"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "system",
-      "pos": "n.",
-      "definition": "organized set of things 系统",
+      "word": "assume",
+      "pos": "vt.",
+      "definition": "take for granted 认为，想当然",
       "examples": [
-        "The computer system is down and I can't send emails until it's fixed.",
-        "The computer system has broken down. I can’t send email messages until it is fixed.",
-        "How many planets are there in the solar system?"
+        "We'll be arriving around noon. That's assuming that our flight is on time.",
+        "I assumed he was coming, so I was surprised when he didn’t show up.",
+        "We’ll be arriving around noon. That’s assuming that our flight is on time.",
+        "e.g. I assumed he was coming, so I was surprised when he didn’t show up."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "throughout",
-      "pos": "prep.",
-      "definition": "during the whole time 自始至终；到处",
+      "word": "back and forth",
+      "pos": "",
+      "definition": "moving first in one direction and then in the opposite one 来来回回地",
       "examples": [
-        "It rained throughout the night.",
-        "Carpet has been fitted throughout the house."
+        "The two boys are throwing the basketball back and forth between them.",
+        "The tiger paced back and forth in its cage."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "be big on",
+      "pos": "",
+      "definition": "have a strong liking for 对…热心；偏爱…",
+      "examples": [
+        "My roommate loves singing and dancing and is big on theatre.",
+        "I am not very big on computer games."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "by oneself",
+      "pos": "",
+      "definition": "without any help from other people; alone 独自，单独地",
+      "examples": [
+        "I’m amazed you managed to move those boxes all by yourself.",
+        "I had to do the whole job all by myself."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "charm",
+      "pos": "vt.",
+      "definition": "attract or delight greatly 吸引，使陶醉",
+      "examples": [
+        "The band's wonderful performance charmed the hometown audience last night.",
+        "The band charmed its hometown with an excellent performance last night.",
+        "The guests were all charmed by their hospitality.",
+        "e.g. The band charmed its hometown with an excellent performance last night."
+      ],
+      "unit": "Book2 Unit 3"
     },
     {
       "word": "favorite",
@@ -577,30 +1212,33 @@
         "Charles Dickens is John’s favorite English author.",
         "He celebrated the publication of his novel by opening a bottle of his favorite champagne.",
         "My younger sister, being a lot more sensible than I, is my parents’ favorite.",
-        "The song is still a favorite after 20 years."
+        "The song is still a favorite after 20 years.",
+        "e.g. Charles Dickens is John’s favorite English author.",
+        "e.g. My younger sister, being a lot more sensible than I, is my parents’ favorite."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "wander",
-      "pos": "vi.",
-      "definition": "walk aimlessly 漫步，漫游",
+      "word": "for a moment",
+      "pos": "",
+      "definition": "片刻，一会儿",
       "examples": [
-        "She wandered off alone from home and got lost in the woods.",
-        "She wandered far away from her home alone, and got lost in the woods."
+        "His harsh words struck me so hard that for a moment I was speechless.",
+        "For a moment he just stood there, unable to understand what had happened."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "scan",
-      "pos": "vt.",
-      "definition": "look over quickly 浏览；细看",
+      "word": "glimpse",
+      "pos": "",
+      "definition": "1) v. get a brief look at; look briefly 瞥见；看一眼",
       "examples": [
-        "She scanned the list looking for her name.",
-        "She scanned the list to find her name.",
-        "She scanned his face for any clue to what he was thinking."
+        "The police officer glimpsed him as he drove by in his car.",
+        "He just glimpsed at the photo and then turned his attention elsewhere.",
+        "Some of the fans had waited 24 hours outside the hotel to catch a glimpse of the singer.",
+        "I got a glimpse of their happy faces as they passed."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
       "word": "guarantee",
@@ -608,107 +1246,10 @@
       "definition": "promise with certainty 承诺，保证",
       "examples": [
         "He guaranteed us that everything would go according to plan.",
-        "Money doesn’t guarantee a happy life."
+        "Money doesn’t guarantee a happy life.",
+        "e.g. He guaranteed us that everything would go according to plan."
       ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "anticipate",
-      "pos": "vt.",
-      "definition": "look forward to 期待",
-      "examples": [
-        "The organizers of the games anticipate a large crowd.",
-        "The organizers of the sports meet anticipate a large crowd of spectators.",
-        "Tracy did not anticipate having to pay for the ticket."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "pace",
-      "pos": "vt.",
-      "definition": "set the speed of 规定…速率",
-      "examples": [
-        "The play was well-paced and the performances were excellent.",
-        "This is a well-paced, well-acted play.",
-        "In the long distance race, it is very important for one to pace oneself."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "charm",
-      "pos": "vt.",
-      "definition": "attract or delight greatly 吸引，使陶醉",
-      "examples": [
-        "The band's wonderful performance charmed the hometown audience last night.",
-        "The band charmed its hometown with an excellent performance last night.",
-        "The guests were all charmed by their hospitality."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "profession",
-      "pos": "n.",
-      "definition": "occupation requiring training 职业",
-      "examples": [
-        "The doctor talked to the students who were considering entering the medical profession.",
-        "The doctor talked to students who are thinking about entering the medical profession.",
-        "I am a teacher by profession."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "amaze",
-      "pos": "vt.",
-      "definition": "fill with wonder 使惊奇",
-      "examples": [
-        "You finished all your homework in an hour? You amaze me.",
-        "You’ve done all your homework in an hour? You amaze me.",
-        "The visitors were all amazed at how well the pupils could read and write."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "magnificent",
-      "pos": "a.",
-      "definition": "very impressive 壮丽的",
-      "examples": [
-        "The view from the top of the mountain is magnificent.",
-        "They gave a magnificent performance."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "obtain",
-      "pos": "vt.",
-      "definition": "get or acquire 获得",
-      "examples": [
-        "The information you requested is difficult to obtain.",
-        "The information you want is difficult to obtain.",
-        "You need to obtain permission from the head librarian to check out a newly arrived book."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "assume",
-      "pos": "vt.",
-      "definition": "take for granted 认为，想当然",
-      "examples": [
-        "We'll be arriving around noon. That's assuming that our flight is on time.",
-        "I assumed he was coming, so I was surprised when he didn’t show up.",
-        "We’ll be arriving around noon. That’s assuming that our flight is on time."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "assignment",
-      "pos": "n.",
-      "definition": "task or job 作业",
-      "examples": [
-        "During his internship at the local newspaper, he received an assignment to interview flood victims.",
-        "When he was an intern for a local newspaper, he got a week-long assignment: to interview the flood victims and write a report about them.",
-        "What a challenging assignment it was for a young writer, to write the story of this great hero!"
-      ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
       "word": "interview",
@@ -717,31 +1258,21 @@
       "examples": [
         "Several strong candidates were interviewed for the position.",
         "Several strong candidates have been interviewed for the position.",
-        "The Minister of Culture was interviewed on television."
+        "The Minister of Culture was interviewed on television.",
+        "e.g. Several strong candidates have been interviewed for the position."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "recognition",
-      "pos": "n.",
-      "definition": "identifying someone or something 认出，识别",
-      "examples": [
-        "The police identified the man using facial recognition technology.",
-        "The police captured the man by using a face recognition system.",
-        "The moment she saw me, she nodded to me and gave me a faint smile of recognition."
-      ],
-      "unit": "Unit 3"
-    },
-    {
-      "word": "steady",
+      "word": "magnificent",
       "pos": "a.",
-      "definition": "constant or stable 持续的，平稳的",
+      "definition": "very impressive 壮丽的",
       "examples": [
-        "Steady rain is expected on Sunday.",
-        "Steady rain arrives for Sunday.",
-        "If you read aloud the poem, you will catch its steady rhythm."
+        "The view from the top of the mountain is magnificent.",
+        "They gave a magnificent performance.",
+        "e.g. The view from the top of the mountain is magnificent."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
       "word": "narrative",
@@ -750,53 +1281,204 @@
       "examples": [
         "The novel is written in first person, but it's not the author's own narrative.",
         "The novel is a first-person narrative. But it is not a story about the author.",
-        "He has given a detailed narrative of the event."
+        "He has given a detailed narrative of the event.",
+        "e.g. The novel is a first-person narrative. But it is not a story about the author."
       ],
-      "unit": "Unit 3"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "commitment",
+      "word": "not give a second thought/without a second thought",
+      "pos": "",
+      "definition": "not give/without giving further consideration; not worry/not worrying about; not care/not caring about 不再考虑；不担心，不在乎",
+      "examples": [
+        "When an opportunity this good comes along, you don’t give it a second thought — you take it before it slips away.",
+        "When he finds a book worth reading, he pays for it without a second thought.",
+        "The matter didn’t seem important, and I hardly gave it a second thought.",
+        "We turned down their offer of help without giving it a second thought."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "now and then",
+      "pos": "",
+      "definition": "from time to time; occasionally 偶尔，有时",
+      "examples": [
+        "She sat by the window, looking out now and then to see if the guests were coming.",
+        "“How often do you go to the theatre?” “Now and then. Not often.”"
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "obtain",
+      "pos": "vt.",
+      "definition": "get or acquire 获得",
+      "examples": [
+        "The information you requested is difficult to obtain.",
+        "The information you want is difficult to obtain.",
+        "You need to obtain permission from the head librarian to check out a newly arrived book.",
+        "e.g. The information you want is difficult to obtain."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "pace",
+      "pos": "vt.",
+      "definition": "set the speed of 规定…速率",
+      "examples": [
+        "The play was well-paced and the performances were excellent.",
+        "This is a well-paced, well-acted play.",
+        "In the long distance race, it is very important for one to pace oneself.",
+        "e.g. This is a well-paced, well-acted play."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "profession",
       "pos": "n.",
-      "definition": "dedication or promise 投入；承诺",
+      "definition": "occupation requiring training 职业",
       "examples": [
-        "An acting career requires one hundred percent commitment.",
-        "A career as an actor requires one hundred percent commitment.",
-        "The company’s commitment to providing quality products at a reasonable price has been vital to its success."
+        "The doctor talked to the students who were considering entering the medical profession.",
+        "The doctor talked to students who are thinking about entering the medical profession.",
+        "I am a teacher by profession.",
+        "e.g. The doctor talked to students who are thinking about entering the medical profession."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "definitely",
-      "pos": "ad.",
-      "definition": "without doubt 肯定，毫无疑问",
-      "examples": [
-        "Was it what you expected? Yes, definitely.",
-        "I’m definitely going to get in touch with my former comrades-in-arms.",
-        "“Was it what you expected?” “Yes, definitely.”"
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "concept",
+      "word": "recognition",
       "pos": "n.",
-      "definition": "principle or idea 概念；观念",
+      "definition": "identifying someone or something 认出，识别",
       "examples": [
-        "It's difficult to define the concept of beauty.",
-        "It is very difficult to define the concept of beauty.",
-        "He has difficulty grasping the basic concepts of mathematics."
+        "The police identified the man using facial recognition technology.",
+        "The police captured the man by using a face recognition system.",
+        "The moment she saw me, she nodded to me and gave me a faint smile of recognition.",
+        "e.g. The police captured the man by using a face recognition system."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 3"
     },
     {
-      "word": "episode",
-      "pos": "n.",
-      "definition": "one part of a series 一集；一个事件",
+      "word": "scan",
+      "pos": "vt.",
+      "definition": "look over quickly 浏览；细看",
       "examples": [
-        "One of the most interesting episodes in the book occurs in Chapter 6.",
-        "One of the funniest episodes in the book occurs in Chapter 6.",
-        "The first episode of the first season of a TV show is also known as the “pilot”."
+        "She scanned the list looking for her name.",
+        "She scanned the list to find her name.",
+        "She scanned his face for any clue to what he was thinking.",
+        "e.g. She scanned the list to find her name.",
+        "e.g. The waitress still hasn’t taken our order — we just can’t catch her eye.",
+        "The new store opened with a big sign that caught the eye of everyone walking down the street.",
+        "The waitress still hasn’t taken our order — we just can’t catch her eye."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "stack",
+      "pos": "",
+      "definition": "1) vt. arrange in a neat pile 叠放",
+      "examples": [
+        "The boy spent a whole afternoon splitting and stacking firewood.",
+        "Stacking all the dishes in the dishwasher will take a while.",
+        "Stacks of books were piled up on the desk.",
+        "We’ve got a stack of bills to pay."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "steady",
+      "pos": "a.",
+      "definition": "constant or stable 持续的，平稳的",
+      "examples": [
+        "Steady rain is expected on Sunday.",
+        "Steady rain arrives for Sunday.",
+        "If you read aloud the poem, you will catch its steady rhythm.",
+        "e.g. Steady rain arrives for Sunday."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "stick to",
+      "pos": "",
+      "definition": "become attached to (as if) by glue 粘住",
+      "examples": [
+        "The boy sticks to his mother like glue. It’s not normal.",
+        "Someone interrupted his speech and told him to stick to his point."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "system",
+      "pos": "n.",
+      "definition": "organized set of things 系统",
+      "examples": [
+        "The computer system is down and I can't send emails until it's fixed.",
+        "The computer system has broken down. I can’t send email messages until it is fixed.",
+        "How many planets are there in the solar system?",
+        "e.g. The computer system has broken down. I can’t send email messages until it is fixed."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "take in",
+      "pos": "",
+      "definition": "spend time looking at; understand or remember (sth.) that one hears or reads 看；领会；记住",
+      "examples": [
+        "It was an interesting exhibition, but there was too much to take in during the half-hour short visit.",
+        "He was in a big hurry and didn’t have time to take in the view."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "the hard way",
+      "pos": "",
+      "definition": "in a way that involves difficult or painful experiences 以吃力的方式或高昂的代价",
+      "examples": [
+        "I learned the hard way not to trust door-to-door salesmen.",
+        "He learned the hard way that it is not easy to work one’s way through college."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "throughout",
+      "pos": "prep.",
+      "definition": "during the whole time 自始至终；到处",
+      "examples": [
+        "It rained throughout the night.",
+        "Carpet has been fitted throughout the house.",
+        "e.g. It rained throughout the night."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "turn sth. on its head",
+      "pos": "",
+      "definition": "turn sth. upside down; completely change the way that sth. is done, organized, thought about, etc. 倒过来；使完全不一样",
+      "examples": [
+        "The new mayor set out to turn the town on its head, but after one month, it was business as usual.",
+        "The new finding has turned the accepted theory on its head."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "wander",
+      "pos": "vi.",
+      "definition": "walk aimlessly 漫步，漫游",
+      "examples": [
+        "She wandered off alone from home and got lost in the woods.",
+        "She wandered far away from her home alone, and got lost in the woods.",
+        "e.g. She wandered far away from her home alone, and got lost in the woods.",
+        "A strange animal wandered into the backyard of the house this morning, and the kids called the police."
+      ],
+      "unit": "Book2 Unit 3"
+    },
+    {
+      "word": "and so forth",
+      "pos": "",
+      "definition": "used at the end of a list to show that it continues in the same way…等等",
+      "examples": [
+        "We discussed almost everything — when to go, what to see and so forth.",
+        "Any scientist would say that evolution is a theory, just as gravity, general relativity, the Big Bang, and so forth are theories."
+      ],
+      "unit": "Book2 Unit 4"
     },
     {
       "word": "appreciate",
@@ -805,9 +1487,152 @@
       "examples": [
         "You can't truly appreciate foreign literature in translation.",
         "You can’t really appreciate foreign literature in translation.",
-        "I would appreciate it if you could let me know in advance whether or not you will be coming."
+        "I would appreciate it if you could let me know in advance whether or not you will be coming.",
+        "e.g. You can’t really appreciate foreign literature in translation."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "commitment",
+      "pos": "n.",
+      "definition": "dedication or promise 投入；承诺",
+      "examples": [
+        "An acting career requires one hundred percent commitment.",
+        "A career as an actor requires one hundred percent commitment.",
+        "The company’s commitment to providing quality products at a reasonable price has been vital to its success.",
+        "e.g. A career as an actor requires one hundred percent commitment."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "concept",
+      "pos": "n.",
+      "definition": "principle or idea 概念；观念",
+      "examples": [
+        "It's difficult to define the concept of beauty.",
+        "It is very difficult to define the concept of beauty.",
+        "He has difficulty grasping the basic concepts of mathematics.",
+        "e.g. It is very difficult to define the concept of beauty."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "definitely",
+      "pos": "ad.",
+      "definition": "without doubt 肯定，毫无疑问",
+      "examples": [
+        "Was it what you expected? Yes, definitely.",
+        "I’m definitely going to get in touch with my former comrades-in-arms.",
+        "“Was it what you expected?” “Yes, definitely.”",
+        "e.g. I’m definitely going to get in touch with my former comrades-in-arms."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "each and every",
+      "pos": "",
+      "definition": "（用于强调）每一个",
+      "examples": [
+        "Each and every one of the flowers has its own color and smell.",
+        "The company will continue to provide a wide range of products from small to large machines in order to suit each and every customer need."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "episode",
+      "pos": "n.",
+      "definition": "one part of a series 一集；一个事件",
+      "examples": [
+        "One of the most interesting episodes in the book occurs in Chapter 6.",
+        "One of the funniest episodes in the book occurs in Chapter 6.",
+        "The first episode of the first season of a TV show is also known as the “pilot”.",
+        "e.g. One of the funniest episodes in the book occurs in Chapter 6."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "essence",
+      "pos": "n.",
+      "definition": "most important quality 本质；精髓",
+      "examples": [
+        "Yet change is the very essence of life.",
+        "The essence of his argument was that education should continue throughout life.",
+        "e.g. Yet change is the very essence of life."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "evident",
+      "pos": "a.",
+      "definition": "clear or obvious 清楚的；显而易见的",
+      "examples": [
+        "Everything she did made it evident that she loved him.",
+        "Her love for him was evident in all that she did.",
+        "From the smell it was evident that the drains had been blocked for several days.",
+        "e.g. Her love for him was evident in all that she did."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "evolve",
+      "pos": "v.",
+      "definition": "develop gradually（使）逐步发展",
+      "examples": [
+        "Did humans evolve from apes?",
+        "The company has evolved into a major chemical manufacturer.",
+        "Cats have evolved an extraordinary sense of balance.",
+        "e.g. Did humans evolve from apes?"
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "exceed",
+      "pos": "vt.",
+      "definition": "be greater than 超过；超越",
+      "examples": [
+        "You're fined 200 yuan for exceeding the speed limit.",
+        "The final cost should not exceed $5,000.",
+        "You’re fined 200 yuan for exceeding the speed limit.",
+        "e.g. The final cost should not exceed $5,000."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "frustration",
+      "pos": "n.",
+      "definition": "feeling of disappointment 懊丧，烦恼",
+      "examples": [
+        "I could sense his frustration at being unable to help.",
+        "I could sense his frustration at not being able to help.",
+        "How could anyone watch this program without feeling anger, frustration and disgust?",
+        "e.g. I could sense his frustration at not being able to help."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "give up",
+      "pos": "",
+      "definition": "stop doing or having sth. 放弃",
+      "examples": [
+        "She didn’t give up work when she had the baby.",
+        "They were forced to give up their home because they couldn’t pay the mortgage."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "incredible",
+      "pos": "a.",
+      "definition": "hard to believe 难以置信的",
+      "examples": [
+        "It's incredible how much Tom has changed since he met Sally.",
+        "The mountain view is just incredible.",
+        "It’s incredible how much Tom has changed since he met Sally.",
+        "e.g. The mountain view is just incredible.",
+        "e.g. Her performance has taken the critics by storm.",
+        "The new show took London by storm.",
+        "Her performance has taken the critics by storm."
+      ],
+      "unit": "Book2 Unit 4"
     },
     {
       "word": "intention",
@@ -817,20 +1642,77 @@
         "Mr. Smith has announced his intention to retire.",
         "I have no intention of going to his wedding.",
         "He left England with the intention of travelling to Africa.",
-        "He’s proud of his guitar style, he says, and he has every intention of showing it off."
+        "He’s proud of his guitar style, he says, and he has every intention of showing it off.",
+        "e.g. Mr. Smith has announced his intention to retire."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
     },
     {
-      "word": "frustration",
-      "pos": "n.",
-      "definition": "feeling of disappointment 懊丧，烦恼",
+      "word": "let alone",
+      "pos": "",
+      "definition": "to say nothing of; not to mention 更不用说",
       "examples": [
-        "I could sense his frustration at being unable to help.",
-        "I could sense his frustration at not being able to help.",
-        "How could anyone watch this program without feeling anger, frustration and disgust?"
+        "Some people never even read a newspaper, let alone a book.",
+        "Her legs were so crippled that it seemed impossible for her to be able to walk, let alone run a marathon."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "multiple",
+      "pos": "a.",
+      "definition": "many or several 多个的；多种多样的",
+      "examples": [
+        "We're now used to accessing information through multiple channels.",
+        "We’ve made multiple copies of the report.",
+        "We’re now used to accessing information through multiple channels.",
+        "e.g. We’ve made multiple copies of the report."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "on a daily basis",
+      "pos": "",
+      "definition": "每一天",
+      "examples": [
+        "How much desktop software do you generally use on a daily basis?",
+        "Safety equipment was checked on a daily basis."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "personality",
+      "pos": "n.",
+      "definition": "personal qualities 人格，个性",
+      "examples": [
+        "Henry's friendly personality makes him perfect for the job.",
+        "Henry, who has a kind, friendly personality, is well qualified for the job.",
+        "Despite their different personalities, they became the best of friends.",
+        "e.g. Henry, who has a kind, friendly personality, is well qualified for the job."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "productive",
+      "pos": "a.",
+      "definition": "producing much 富有成效的；多产的",
+      "examples": [
+        "Most of us are more productive in the morning.",
+        "He had an amazingly productive five years in which he managed to write four novels.",
+        "e.g. Most of us are more productive in the morning."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "register",
+      "pos": "v.",
+      "definition": "record officially 登记，注册",
+      "examples": [
+        "All foreigners must register with the local police within two weeks of arrival.",
+        "Within two weeks of arrival all foreigners had to register with the local police.",
+        "How many students have registered for English classes?",
+        "e.g. Within two weeks of arrival all foreigners had to register with the local police."
+      ],
+      "unit": "Book2 Unit 4"
     },
     {
       "word": "reputation",
@@ -840,104 +1722,63 @@
         "This hotel has a bad/reputation.",
         "The hotel has a bad/good reputation.",
         "Steve soon acquired a reputation as a first-class cook.",
-        "His reputation was destroyed when he was caught committing plagiarism in his thesis."
+        "His reputation was destroyed when he was caught committing plagiarism in his thesis.",
+        "e.g. The hotel has a bad/good reputation."
       ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "evident",
-      "pos": "a.",
-      "definition": "clear or obvious 清楚的；显而易见的",
-      "examples": [
-        "Everything she did made it evident that she loved him.",
-        "Her love for him was evident in all that she did.",
-        "From the smell it was evident that the drains had been blocked for several days."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "essence",
-      "pos": "n.",
-      "definition": "most important quality 本质；精髓",
-      "examples": [
-        "Yet change is the very essence of life.",
-        "The essence of his argument was that education should continue throughout life."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "exceed",
-      "pos": "vt.",
-      "definition": "be greater than 超过；超越",
-      "examples": [
-        "You're fined 200 yuan for exceeding the speed limit.",
-        "The final cost should not exceed $5,000.",
-        "You’re fined 200 yuan for exceeding the speed limit."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "incredible",
-      "pos": "a.",
-      "definition": "hard to believe 难以置信的",
-      "examples": [
-        "It's incredible how much Tom has changed since he met Sally.",
-        "The mountain view is just incredible.",
-        "It’s incredible how much Tom has changed since he met Sally."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "multiple",
-      "pos": "a.",
-      "definition": "many or several 多个的；多种多样的",
-      "examples": [
-        "We're now used to accessing information through multiple channels.",
-        "We’ve made multiple copies of the report.",
-        "We’re now used to accessing information through multiple channels."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "register",
-      "pos": "v.",
-      "definition": "record officially 登记，注册",
-      "examples": [
-        "All foreigners must register with the local police within two weeks of arrival.",
-        "Within two weeks of arrival all foreigners had to register with the local police.",
-        "How many students have registered for English classes?"
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "productive",
-      "pos": "a.",
-      "definition": "producing much 富有成效的；多产的",
-      "examples": [
-        "Most of us are more productive in the morning.",
-        "He had an amazingly productive five years in which he managed to write four novels."
-      ],
-      "unit": "Unit 4"
-    },
-    {
-      "word": "evolve",
-      "pos": "v.",
-      "definition": "develop gradually（使）逐步发展",
-      "examples": [
-        "Did humans evolve from apes?",
-        "The company has evolved into a major chemical manufacturer.",
-        "Cats have evolved an extraordinary sense of balance."
-      ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
     },
     {
       "word": "route",
       "pos": "n.",
       "definition": "way to get somewhere 路线；途径",
       "examples": [
-        "Which is the best route to take?"
+        "Which is the best route to take?",
+        "e.g. Which is the best route to take?",
+        "A college education is often the best route to a good job."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "sign (sb.) up (for sth.)",
+      "pos": "",
+      "definition": "agree to (let sb.) become involved in an organized activity报名（让某人）参加",
+      "examples": [
+        "She’s signed up for evening classes at the community college.",
+        "I’ve signed up to make the sandwiches for the party."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "speak volumes",
+      "pos": "",
+      "definition": "give a lot of information without the use of words 不言自明",
+      "examples": [
+        "The crowd gathered at the entrance to the stadium spoke volumes of the soccer team’s popularity.",
+        "How you react to challenges speaks volumes about your character.",
+        "Sometimes nothing needs to be said. A mere glance at each other can speak volumes."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "subject sb./sth. to sth.",
+      "pos": "",
+      "definition": "make sb./sth. experience, suffer or be affected by sth., usually sth. unpleasant 使经受；使遭受",
+      "examples": [
+        "The police subjected him to hours of questioning.",
+        "The city was subjected to heavy bombing."
+      ],
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "thanks to",
+      "pos": "",
+      "definition": "because of 幸亏；由于，因为",
+      "examples": [
+        "It was all a great success — thanks to a lot of hard work.",
+        "We’ve reached our goal of $10,000, thanks to the generosity of the public.",
+        "Some ski resorts opened early, thanks to a late October snowstorm."
+      ],
+      "unit": "Book2 Unit 4"
     },
     {
       "word": "thrive",
@@ -946,20 +1787,41 @@
       "examples": [
         "New businesses are thriving in this area.",
         "New businesses thrive in this area.",
-        "Revolutions in technology bring benefits to millions, but the companies that make them happen do not always thrive."
+        "Revolutions in technology bring benefits to millions, but the companies that make them happen do not always thrive.",
+        "e.g. New businesses thrive in this area."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
     },
     {
-      "word": "personality",
-      "pos": "n.",
-      "definition": "personal qualities 人格，个性",
+      "word": "wear sb./sth. down",
+      "pos": "",
+      "definition": "make sb./sth. weaker and less able to deal successfully with a situation 使精疲力竭；磨垮",
       "examples": [
-        "Henry's friendly personality makes him perfect for the job.",
-        "Henry, who has a kind, friendly personality, is well qualified for the job.",
-        "Despite their different personalities, they became the best of friends."
+        "They hoped the waiting and the uncertainty would wear down my resistance.",
+        "Both sides are trying to wear the other down by being obstinate in the negotiations."
       ],
-      "unit": "Unit 4"
+      "unit": "Book2 Unit 4"
+    },
+    {
+      "word": "assess",
+      "pos": "vt.",
+      "definition": "judge the quality of 评估，估量",
+      "examples": [
+        "The value of the diamond was assessed at $20,000.",
+        "Examinations are not the only means of assessing one’s ability.",
+        "e.g. The value of the diamond was assessed at $20,000."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "at first",
+      "pos": "",
+      "definition": "at the beginning 起先",
+      "examples": [
+        "At first I thought that the shop was empty, then a man appeared from behind one of the counters.",
+        "Jack felt tired at first, but soon got used to the long working hours."
+      ],
+      "unit": "Book2 Unit 5"
     },
     {
       "word": "controversy",
@@ -968,117 +1830,10 @@
       "examples": [
         "Much controversy has arisen over the author's new book.",
         "Much controversy arose regarding the author’s newly published book.",
-        "There is a fierce/bitter/heated controversy over tax cuts for big businesses."
+        "There is a fierce/bitter/heated controversy over tax cuts for big businesses.",
+        "e.g. Much controversy arose regarding the author’s newly published book."
       ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "explore",
-      "pos": "vt.",
-      "definition": "examine thoroughly 探究，探索",
-      "examples": [
-        "Engineers have explored the possibility of building a bridge over the river.",
-        "The engineers have already explored the possibility of building a bridge over the river.",
-        "Virtual Reality aims to give us artificial worlds to explore, outside normal space and time."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "encounter",
-      "pos": "vt.",
-      "definition": "meet unexpectedly 遇到，遭遇",
-      "examples": [
-        "She encountered an old friend in the street.",
-        "Before they had gone very far, they encountered an art student doing a sketch of the landscape."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "reveal",
-      "pos": "vt.",
-      "definition": "make known 展示；揭露",
-      "examples": [
-        "Details of the new health insurance policy have not yet been revealed.",
-        "The details of the new policy for medical insurance have not yet been revealed."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "dominant",
-      "pos": "a.",
-      "definition": "most powerful or important 统治的；占优势的",
-      "examples": [
-        "Charlie Chaplin was once a dominant figure in the American film industry.",
-        "Charlie Chaplin was once a dominant figure in the American movie industry.",
-        "The company has achieved a dominant position in the world market."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "negotiate",
-      "pos": "vi.",
-      "definition": "discuss to reach agreement 谈判，协商",
-      "examples": [
-        "The three companies are reported to be negotiating how to share the market.",
-        "There were reports that the three companies were negotiating to share the market.",
-        "The government refused to negotiate with terrorists."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "maintain",
-      "pos": "vt.",
-      "definition": "keep or continue 维持；保持",
-      "examples": [
-        "The hotel staff demonstrated a commitment to maintaining high-quality service.",
-        "The hotel staff showed determination to maintain a high-quality service.",
-        "Our department maintains close contacts with the IT industry."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "relieve",
-      "pos": "vt.",
-      "definition": "free from pain or worry 解除；减轻",
-      "examples": [
-        "Getting a part-time job could help relieve your financial burden.",
-        "Taking a part-time job would help relieve you of the financial burden.",
-        "Drugs can relieve much of the pain."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "undertake",
-      "pos": "vt.",
-      "definition": "carry out or take on 着手做；承担",
-      "examples": [
-        "We'll have to employ more staff if we are going to undertake more work.",
-        "The United Nations is supposed to undertake the role of global peace-keeper.",
-        "We’ll have to employ more staff if we are going to undertake more work."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "figure",
-      "pos": "out",
-      "definition": "understand or reason out 理解；推断出",
-      "examples": [
-        "I can't figure out why he gave up such a well-paid job to do something so boring.",
-        "I can’t figure out why he quit his well-paid job to undertake such tedious work.",
-        "It took me two hours to figure out how to start the new washing-machine."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "switch",
-      "pos": "v.",
-      "definition": "change or shift 转换，变换",
-      "examples": [
-        "He used to play tennis, but now he's switched to golf.",
-        "He used to play tennis, but now he’s switched to golf.",
-        "She started studying medicine at college, but switched to business studies in her second year."
-      ],
-      "unit": "Unit 5"
+      "unit": "Book2 Unit 5"
     },
     {
       "word": "cooperate",
@@ -1087,52 +1842,13 @@
       "examples": [
         "New York police cooperated with Boston police to capture the criminal.",
         "The New York City police cooperated with the force in Boston in catching the criminals.",
-        "Aid agencies and the local government are cooperating to deliver supplies to the flooded areas."
+        "Aid agencies and the local government are cooperating to deliver supplies to the flooded areas.",
+        "e.g. The New York City police cooperated with the force in Boston in catching the criminals.",
+        "e.g. It would be in your interests to undertake this task, although it is difficult.",
+        "The local government has refused to approve the construction of a new chemical plant because it is not in the public interest.",
+        "It would be in your interests to undertake this task, although it is difficult."
       ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "assess",
-      "pos": "vt.",
-      "definition": "judge the quality of 评估，估量",
-      "examples": [
-        "The value of the diamond was assessed at $20,000.",
-        "Examinations are not the only means of assessing one’s ability."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "judgment",
-      "pos": "n.",
-      "definition": "forming an opinion 判断；意见",
-      "examples": [
-        "What do you think caused the student to fail the exam?",
-        "In your judgment, what has caused the student’s failure in the examination?",
-        "My judgment is that the student has spent too much time on extracurricular activities."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "emergency",
-      "pos": "n.",
-      "definition": "unexpected and dangerous situation 紧急情况",
-      "examples": [
-        "If you encounter an emergency in China, please dial 110.",
-        "In an emergency in China, call 110.",
-        "The pilot of the aircraft was forced to make an emergency landing."
-      ],
-      "unit": "Unit 5"
-    },
-    {
-      "word": "evidence",
-      "pos": "n.",
-      "definition": "something that gives reason for believing 证据",
-      "examples": [
-        "There is much evidence that stress is one of the causes of disease.",
-        "There is a lot of evidence that stress is partly responsible for diseases.",
-        "Scientists haven’t yet found any evidence of life on other planets."
-      ],
-      "unit": "Unit 5"
+      "unit": "Book2 Unit 5"
     },
     {
       "word": "deceive",
@@ -1141,9 +1857,237 @@
       "examples": [
         "You deceived me, and I can't forgive you.",
         "You deceived me, and I can’t forgive you.",
-        "They deceived the old man into signing the papers."
+        "They deceived the old man into signing the papers.",
+        "e.g. You deceived me, and I can’t forgive you."
       ],
-      "unit": "Unit 5"
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "dominant",
+      "pos": "a.",
+      "definition": "most powerful or important 统治的；占优势的",
+      "examples": [
+        "Charlie Chaplin was once a dominant figure in the American film industry.",
+        "Charlie Chaplin was once a dominant figure in the American movie industry.",
+        "The company has achieved a dominant position in the world market.",
+        "e.g. Charlie Chaplin was once a dominant figure in the American movie industry."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "emergency",
+      "pos": "n.",
+      "definition": "unexpected and dangerous situation 紧急情况",
+      "examples": [
+        "If you encounter an emergency in China, please dial 110.",
+        "In an emergency in China, call 110.",
+        "The pilot of the aircraft was forced to make an emergency landing.",
+        "e.g. In an emergency in China, call 110."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "encounter",
+      "pos": "vt.",
+      "definition": "meet unexpectedly 遇到，遭遇",
+      "examples": [
+        "She encountered an old friend in the street.",
+        "Before they had gone very far, they encountered an art student doing a sketch of the landscape.",
+        "e.g. She encountered an old friend in the street."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "evidence",
+      "pos": "n.",
+      "definition": "something that gives reason for believing 证据",
+      "examples": [
+        "There is much evidence that stress is one of the causes of disease.",
+        "There is a lot of evidence that stress is partly responsible for diseases.",
+        "Scientists haven’t yet found any evidence of life on other planets.",
+        "e.g. There is a lot of evidence that stress is partly responsible for diseases."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "explore",
+      "pos": "vt.",
+      "definition": "examine thoroughly 探究，探索",
+      "examples": [
+        "Engineers have explored the possibility of building a bridge over the river.",
+        "The engineers have already explored the possibility of building a bridge over the river.",
+        "Virtual Reality aims to give us artificial worlds to explore, outside normal space and time.",
+        "e.g. The engineers have already explored the possibility of building a bridge over the river."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "figure",
+      "pos": "out",
+      "definition": "understand or reason out 理解；推断出",
+      "examples": [
+        "I can't figure out why he gave up such a well-paid job to do something so boring.",
+        "I can’t figure out why he quit his well-paid job to undertake such tedious work.",
+        "It took me two hours to figure out how to start the new washing-machine.",
+        "e.g. I can’t figure out why he quit his well-paid job to undertake such tedious work."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "figure out",
+      "pos": "",
+      "definition": "understand; reason out 理解；推断出",
+      "examples": [
+        "I can’t figure out why he quit his well-paid job to undertake such tedious work.",
+        "It took me two hours to figure out how to start the new washing-machine."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "gaze",
+      "pos": "",
+      "definition": "1) n. 凝视，注视",
+      "examples": [
+        "Mike fixed his gaze on me and then smiled.",
+        "I didn’t dare to meet his gaze.",
+        "David sighed and gazed into the distance.",
+        "The children gazed at all the skyscrapers in awe."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "give in",
+      "pos": "",
+      "definition": "yield, cease opposition 让步；屈服",
+      "examples": [
+        "The authorities showed no signs of giving in to the kidnappers’ demands.",
+        "Students pressed university authorities until they finally gave in and installed air conditioning in the dorms."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "go far",
+      "pos": "",
+      "definition": "1) help very much 帮助很大",
+      "examples": [
+        "Your suggestion will go far towards solving our present housing problem.",
+        "Your gift will go far towards helping to build the children’s hospital.",
+        "Jane’s a very talented writer — she’ll go far.",
+        "Everyone was sure that this boy would go far."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "go wrong",
+      "pos": "",
+      "definition": "stop developing well 出问题，出故障",
+      "examples": [
+        "Everything went wrong with my computer after I installed that new program.",
+        "I couldn’t watch the live opening ceremony of the World Cup yesterday because my television went wrong again."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "horizon",
+      "pos": "",
+      "definition": "1) n. (used in the plural) 眼界，见识",
+      "examples": [
+        "Reading and travel can widen one’s horizons.",
+        "It is hoped that the course will open up new horizons for students.",
+        "The sun has risen on the horizon.",
+        "Misty clouds appeared on the distant horizon."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "judgment",
+      "pos": "n.",
+      "definition": "forming an opinion 判断；意见",
+      "examples": [
+        "What do you think caused the student to fail the exam?",
+        "In your judgment, what has caused the student’s failure in the examination?",
+        "My judgment is that the student has spent too much time on extracurricular activities.",
+        "e.g. In your judgment, what has caused the student’s failure in the examination?"
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "maintain",
+      "pos": "vt.",
+      "definition": "keep or continue 维持；保持",
+      "examples": [
+        "The hotel staff demonstrated a commitment to maintaining high-quality service.",
+        "The hotel staff showed determination to maintain a high-quality service.",
+        "Our department maintains close contacts with the IT industry.",
+        "e.g. The hotel staff showed determination to maintain a high-quality service."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "negotiate",
+      "pos": "vi.",
+      "definition": "discuss to reach agreement 谈判，协商",
+      "examples": [
+        "The three companies are reported to be negotiating how to share the market.",
+        "There were reports that the three companies were negotiating to share the market.",
+        "The government refused to negotiate with terrorists.",
+        "e.g. There were reports that the three companies were negotiating to share the market."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "only to",
+      "pos": "",
+      "definition": "(followed by a verb phrase) used to introduce an event which happens immediately after the one you have just mentioned, and which is rather surprising or unfortunate 结果却，不料",
+      "examples": [
+        "He hurried to the railway station, only to find that the train had left.",
+        "He had once tried inviting her out, only to meet with a rather cool response."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "relieve",
+      "pos": "vt.",
+      "definition": "free from pain or worry 解除；减轻",
+      "examples": [
+        "Getting a part-time job could help relieve your financial burden.",
+        "Taking a part-time job would help relieve you of the financial burden.",
+        "Drugs can relieve much of the pain.",
+        "e.g. Taking a part-time job would help relieve you of the financial burden."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "researcher",
+      "pos": "n.",
+      "definition": "one who carries out academic or scientific research",
+      "examples": [
+        "I work as a researcher at the National Institute of Medical Research.",
+        "A team of researchers at MIT has designed one of the strongest lightweight materials."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "reveal",
+      "pos": "vt.",
+      "definition": "make known 展示；揭露",
+      "examples": [
+        "Details of the new health insurance policy have not yet been revealed.",
+        "The details of the new policy for medical insurance have not yet been revealed.",
+        "e.g. The details of the new policy for medical insurance have not yet been revealed.",
+        "A new survey has revealed that a growing number of children in cities are overweight."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "size up",
+      "pos": "",
+      "definition": "carefully examine (a situation or person) in order to make a judgment 估量，判断",
+      "examples": [
+        "I don’t like the way the sales assistants in that shop size you up as you walk through the door.",
+        "I felt insulted by the way my father sized up my boyfriend."
+      ],
+      "unit": "Book2 Unit 5"
     },
     {
       "word": "survive",
@@ -1152,9 +2096,122 @@
       "examples": [
         "Several villagers were killed in the earthquake, but most survived.",
         "A few villagers were killed but most survived the earthquake.",
-        "The baby was born with a heart problem and only survived for a few hours."
+        "The baby was born with a heart problem and only survived for a few hours.",
+        "e.g. A few villagers were killed but most survived the earthquake."
       ],
-      "unit": "Unit 5"
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "switch",
+      "pos": "v.",
+      "definition": "change or shift 转换，变换",
+      "examples": [
+        "He used to play tennis, but now he's switched to golf.",
+        "He used to play tennis, but now he’s switched to golf.",
+        "She started studying medicine at college, but switched to business studies in her second year.",
+        "e.g. He used to play tennis, but now he’s switched to golf."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "underneath",
+      "pos": "",
+      "definition": "prep., ad. under or below 在（…）下面，在（…）底下",
+      "examples": [
+        "The bomb exploded underneath his car as he was preparing to leave home.",
+        "Russel wore a white vest underneath his shirt.",
+        "You can check the actual construction of the chair by looking underneath."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "undertake",
+      "pos": "vt.",
+      "definition": "carry out or take on 着手做；承担",
+      "examples": [
+        "We'll have to employ more staff if we are going to undertake more work.",
+        "The United Nations is supposed to undertake the role of global peace-keeper.",
+        "We’ll have to employ more staff if we are going to undertake more work.",
+        "e.g. The United Nations is supposed to undertake the role of global peace-keeper."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "wipe out",
+      "pos": "",
+      "definition": "get rid of or destroy 消灭，消除",
+      "examples": [
+        "The bank agreed to wipe out their debts.",
+        "The village was wiped out by the earthquake."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "within reach (of sth.)",
+      "pos": "",
+      "definition": "伸手可及；靠近",
+      "examples": [
+        "These hotels are within reach of beaches.",
+        "The apartment building is within easy reach of schools and sports facilities."
+      ],
+      "unit": "Book2 Unit 5"
+    },
+    {
+      "word": "arouse",
+      "pos": "vt.",
+      "definition": "provoke or cause 唤起，激起",
+      "examples": [
+        "The actor's affairs aroused a great deal of curiosity.",
+        "News of the actor’s romance has aroused a lot of curiosity.",
+        "Football arouses a good deal of passion among its fans.",
+        "e.g. News of the actor’s romance has aroused a lot of curiosity."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "ban",
+      "pos": "vt.",
+      "definition": "forbid officially 禁止，取缔",
+      "examples": [
+        "The movie was banned in several countries.",
+        "The film was banned in several countries.",
+        "The new law bans drivers from using hand-held phones while driving.",
+        "e.g. The film was banned in several countries."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "be supposed to do",
+      "pos": "",
+      "definition": "be required to do 应该做",
+      "examples": [
+        "What are you doing here, Tom? You are supposed to be at school!",
+        "The contract is supposed to be made without fear or pressure."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "come up with",
+      "pos": "",
+      "definition": "think of (a plan, reply, etc.); produce 想出（计划、回答等）；提出",
+      "examples": [
+        "She has come up with some amazing ideas to cut down cost.",
+        "They came up with a plan to increase productivity."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "core",
+      "pos": "n.",
+      "definition": "most important part 核心",
+      "examples": [
+        "The core workforce at the factory comes from the local community.",
+        "The core of the plant’s workforce comes from local communities.",
+        "Do you agree that artificial intelligence is, at its core, a human design activity?",
+        "The company’s core mission, claimed its CEO, is to help patients with memory loss.",
+        "e.g. The core of the plant’s workforce comes from local communities."
+      ],
+      "unit": "Book2 Unit 6"
     },
     {
       "word": "corrupt",
@@ -1165,136 +2222,10 @@
         "Most of the data on the hard drive was corrupted when the power went out.",
         "The culture has been corrupted by Western influences.",
         "It is believed that violence on television corrupts the minds of children.",
-        "What corrupts people more: money, material items or power?"
+        "What corrupts people more: money, material items or power?",
+        "e.g. Most of the data on the hard drive was corrupted when the power went out."
       ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "ban",
-      "pos": "vt.",
-      "definition": "forbid officially 禁止，取缔",
-      "examples": [
-        "The movie was banned in several countries.",
-        "The film was banned in several countries.",
-        "The new law bans drivers from using hand-held phones while driving."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "desirable",
-      "pos": "a.",
-      "definition": "worth having or doing 值得有的",
-      "examples": [
-        "This new shop is in a very desirable location.",
-        "The new store is in a highly desirable location.",
-        "Of course, a diplomatic solution is always more desirable than war."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "invent",
-      "pos": "vt.",
-      "definition": "create something new 发明",
-      "examples": [
-        "The World Wide Web was invented in 1989.",
-        "She invented an explanation for being late this morning."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "fascinating",
-      "pos": "a.",
-      "definition": "extremely interesting 迷人的",
-      "examples": [
-        "The book gives a fascinating glimpse into the lives of rich and famous people."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "tolerance",
-      "pos": "n.",
-      "definition": "willingness to accept 容忍，宽容",
-      "examples": [
-        "Your body will build up a tolerance to most drugs.",
-        "The large number of immigrants who flood this border region is testing its tradition of tolerance."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "extent",
-      "pos": "n.",
-      "definition": "degree or range 范围；程度",
-      "examples": [
-        "The full extent of the damage caused by the storm is not yet known.",
-        "The extent of damage resulting from the storm is still unknown.",
-        "The drug reduces pain to a real extent, particularly in the short term."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "core",
-      "pos": "n.",
-      "definition": "most important part 核心",
-      "examples": [
-        "The core workforce at the factory comes from the local community.",
-        "The core of the plant’s workforce comes from local communities.",
-        "Do you agree that artificial intelligence is, at its core, a human design activity?",
-        "The company’s core mission, claimed its CEO, is to help patients with memory loss."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "arouse",
-      "pos": "vt.",
-      "definition": "provoke or cause 唤起，激起",
-      "examples": [
-        "The actor's affairs aroused a great deal of curiosity.",
-        "News of the actor’s romance has aroused a lot of curiosity.",
-        "Football arouses a good deal of passion among its fans."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "opportunity",
-      "pos": "n.",
-      "definition": "chance to do something 机会",
-      "examples": [
-        "His job gives him many opportunities to travel abroad.",
-        "His work provided him with the opportunity for a lot of foreign travel.",
-        "The exhibition offers visitors a great opportunity to see some of the masterpieces of the Renaissance."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "invade",
-      "pos": "vt.",
-      "definition": "enter with armed forces 侵入，侵略",
-      "examples": [
-        "D-Day was June 6, 1944, when the Allies invaded Normandy.",
-        "The D-Day landings began on June 6, 1944, when Allied forces invaded Normandy.",
-        "She felt that the guard had invaded her privacy when he searched her bag."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "mystery",
-      "pos": "n.",
-      "definition": "something that can't be explained 神秘的事",
-      "examples": [
-        "How these huge stones were moved hundreds of miles remains a mystery.",
-        "How the massive stones were brought here from hundreds of miles away remains a mystery.",
-        "The mystery was solved when the police discovered the murder weapon."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "resemble",
-      "pos": "vt.",
-      "definition": "be like or similar to 与…相似",
-      "examples": [
-        "She resembles her mother in appearance but not in character."
-      ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
     },
     {
       "word": "descend",
@@ -1303,9 +2234,22 @@
       "examples": [
         "Humans are believed to have descended from apelike creatures.",
         "Humans are thought to have descended from ape-like creatures.",
-        "He descends from an old merchant family."
+        "He descends from an old merchant family.",
+        "e.g. Humans are thought to have descended from ape-like creatures."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "desirable",
+      "pos": "a.",
+      "definition": "worth having or doing 值得有的",
+      "examples": [
+        "This new shop is in a very desirable location.",
+        "The new store is in a highly desirable location.",
+        "Of course, a diplomatic solution is always more desirable than war.",
+        "e.g. The new store is in a highly desirable location."
+      ],
+      "unit": "Book2 Unit 6"
     },
     {
       "word": "establish",
@@ -1314,53 +2258,51 @@
       "examples": [
         "After gaining control of the city, the first thing they did was establish law and order.",
         "After they took control of the town, the first thing they did was to establish law and order.",
-        "Being a career diplomat, he spent a good part of his life trying to establish friendly relations between China and other countries."
+        "Being a career diplomat, he spent a good part of his life trying to establish friendly relations between China and other countries.",
+        "e.g. After they took control of the town, the first thing they did was to establish law and order."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
     },
     {
-      "word": "replace",
-      "pos": "vt.",
-      "definition": "take the place of 取代",
-      "examples": [
-        "The factory replaced most of its workers with robots.",
-        "Tourism has replaced agriculture as the nation’s main industry."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "modify",
-      "pos": "vt.",
-      "definition": "change slightly 修改，更改",
-      "examples": [
-        "The original plan was too radical and expensive; the modified plan is more reasonable.",
-        "The original plan was too ambitious and costly. The modified one looks more reasonable.",
-        "The school has decided to modify its existing employment policy."
-      ],
-      "unit": "Unit 6"
-    },
-    {
-      "word": "source",
+      "word": "extent",
       "pos": "n.",
-      "definition": "place where something comes from 源头，来源",
+      "definition": "degree or range 范围；程度",
       "examples": [
-        "Fruit is a good source of vitamin C.",
-        "Fruit is a good source of Vitamin C.",
-        "Writing is not his only source of income.",
-        "The journalist refused to reveal his sources of information."
+        "The full extent of the damage caused by the storm is not yet known.",
+        "The extent of damage resulting from the storm is still unknown.",
+        "The drug reduces pain to a real extent, particularly in the short term.",
+        "e.g. The extent of damage resulting from the storm is still unknown."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
     },
     {
-      "word": "represent",
-      "pos": "vt.",
-      "definition": "stand for or symbolize 代表；象征",
+      "word": "fascinate",
+      "pos": "",
+      "definition": "v.（使）着迷",
       "examples": [
-        "The new car is more environmentally friendly and represents a positive step for the manufacturer.",
-        "The new car model is more environment-friendly and represents a step in the right direction on the part of its manufacturer.",
-        "The dove represents peace in many religious and political artworks."
+        "The book offers a fascinating glimpse of the lives of the rich and famous.",
+        "Phil has long been fascinated by the science and technology of space flight."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "fascinating",
+      "pos": "a.",
+      "definition": "extremely interesting 迷人的",
+      "examples": [
+        "The book gives a fascinating glimpse into the lives of rich and famous people."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "for effect",
+      "pos": "",
+      "definition": "in order to impress people or make people notice 为了增强效果，为了引起注意",
+      "examples": [
+        "You don’t mean that — you only said it for effect.",
+        "The author used some slang words just for effect."
+      ],
+      "unit": "Book2 Unit 6"
     },
     {
       "word": "individual",
@@ -1371,9 +2313,125 @@
         "How could a single individual have achieved all this?",
         "Are you the individual who wants to meet me?",
         "We develop our own individual style of writing.",
-        "We try to meet the individual needs of students."
+        "We try to meet the individual needs of students.",
+        "e.g. How could a single individual have achieved all this?",
+        "e.g. We develop our own individual style of writing."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "intellectual",
+      "pos": "a.",
+      "definition": "relating to the ability to think in an intelligent way 智力的",
+      "examples": [
+        "He concentrates too much on his books and neglects the social and intellectual life on campus.",
+        "Little is known about the boy’s intellectual pursuits."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "invade",
+      "pos": "vt.",
+      "definition": "enter with armed forces 侵入，侵略",
+      "examples": [
+        "D-Day was June 6, 1944, when the Allies invaded Normandy.",
+        "The D-Day landings began on June 6, 1944, when Allied forces invaded Normandy.",
+        "She felt that the guard had invaded her privacy when he searched her bag.",
+        "e.g. The D-Day landings began on June 6, 1944, when Allied forces invaded Normandy."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "invent",
+      "pos": "vt.",
+      "definition": "create something new 发明",
+      "examples": [
+        "The World Wide Web was invented in 1989.",
+        "She invented an explanation for being late this morning.",
+        "e.g. The World Wide Web was invented in 1989."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "modify",
+      "pos": "vt.",
+      "definition": "change slightly 修改，更改",
+      "examples": [
+        "The original plan was too radical and expensive; the modified plan is more reasonable.",
+        "The original plan was too ambitious and costly. The modified one looks more reasonable.",
+        "The school has decided to modify its existing employment policy.",
+        "e.g. The original plan was too ambitious and costly. The modified one looks more reasonable."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "mystery",
+      "pos": "n.",
+      "definition": "something that can't be explained 神秘的事",
+      "examples": [
+        "How these huge stones were moved hundreds of miles remains a mystery.",
+        "How the massive stones were brought here from hundreds of miles away remains a mystery.",
+        "The mystery was solved when the police discovered the murder weapon.",
+        "e.g. How the massive stones were brought here from hundreds of miles away remains a mystery."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "nourish",
+      "pos": "vt.",
+      "definition": "give (sb. or a living thing) what is needed so that they can grow and stay healthy 滋养，培育",
+      "examples": [
+        "The longer I had to postpone my trip to San Francisco, the more eagerly I wanted to go. Desires are nourished by delays.",
+        "He has long nourished an ambition to bring the show to Broadway."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "opportunity",
+      "pos": "n.",
+      "definition": "chance to do something 机会",
+      "examples": [
+        "His job gives him many opportunities to travel abroad.",
+        "His work provided him with the opportunity for a lot of foreign travel.",
+        "The exhibition offers visitors a great opportunity to see some of the masterpieces of the Renaissance.",
+        "e.g. His work provided him with the opportunity for a lot of foreign travel."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "out of control",
+      "pos": "",
+      "definition": "失去控制，不受约束",
+      "examples": [
+        "To prevent costs from getting out of control is the top priority of the company right now.",
+        "His car went out of control and hit a big tree.",
+        "His advice is good. But it is hard to put into practice.",
+        "I will try to put the new technique you showed me into practice."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "pass (sth.) on/pass on (sth.) to (sb.)",
+      "pos": "",
+      "definition": "hand or give (sth.) to (sb.) 将…传给…",
+      "examples": [
+        "The store will close in five minutes. Please pass the information on to the next in line.",
+        "That’s good news. I will pass it on to all my classmates.",
+        "If a company spends a lot on advertising, it will pass the higher cost on to its customers."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "preserve",
+      "pos": "",
+      "definition": "1) n. 独占的地区或范围；禁猎地",
+      "examples": [
+        "We went to a wildlife preserve and saw many strange animals.",
+        "The civil service seems to have become the preserve of the educated middle class.",
+        "These laws are intended to help preserve our natural resources.",
+        "The city is spending lots of money on preserving these ancient buildings."
+      ],
+      "unit": "Book2 Unit 6"
     },
     {
       "word": "principle",
@@ -1381,16 +2439,161 @@
       "definition": "basic rule or belief 原则；主义",
       "examples": [
         "He is a man of principle.",
-        "The organization works on the principle that all members have the same rights."
+        "The organization works on the principle that all members have the same rights.",
+        "e.g. He is a man of principle."
       ],
-      "unit": "Unit 6"
+      "unit": "Book2 Unit 6"
     },
     {
-      "word": "exaggerate",
-      "pos": "v.",
-      "definition": "make something seem bigger than it is 夸张",
+      "word": "replace",
+      "pos": "vt.",
+      "definition": "take the place of 取代",
       "examples": [
-        "Don't exaggerate - it wasn't that expensive."
+        "The factory replaced most of its workers with robots.",
+        "Tourism has replaced agriculture as the nation’s main industry.",
+        "e.g. The factory replaced most of its workers with robots."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "represent",
+      "pos": "vt.",
+      "definition": "stand for or symbolize 代表；象征",
+      "examples": [
+        "The new car is more environmentally friendly and represents a positive step for the manufacturer.",
+        "The new car model is more environment-friendly and represents a step in the right direction on the part of its manufacturer.",
+        "The dove represents peace in many religious and political artworks.",
+        "e.g. The new car model is more environment-friendly and represents a step in the right direction on the part of its manufacturer."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "resemblance",
+      "pos": "n.",
+      "definition": "相似（之处）",
+      "examples": [
+        "She found Jack’s room to resemble more a study than a youth’s bedroom.",
+        "The two of them resemble each other closely enough to be sisters.",
+        "He doesn’t look exactly like his father, but there is some resemblance."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "resemble",
+      "pos": "vt.",
+      "definition": "be like or similar to 与…相似",
+      "examples": [
+        "She resembles her mother in appearance but not in character."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "slip",
+      "pos": "vi.",
+      "definition": "go somewhere, esp. quickly and quietly without people noticing you 悄悄地走",
+      "examples": [
+        "We managed to slip away unnoticed.",
+        "Time slipped by."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "source",
+      "pos": "n.",
+      "definition": "place where something comes from 源头，来源",
+      "examples": [
+        "Fruit is a good source of vitamin C.",
+        "Fruit is a good source of Vitamin C.",
+        "Writing is not his only source of income.",
+        "The journalist refused to reveal his sources of information.",
+        "e.g. Fruit is a good source of Vitamin C."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "spring from",
+      "pos": "",
+      "definition": "be caused by, come from 源于",
+      "examples": [
+        "His idea of writing the novel sprang from a news report he had read.",
+        "His desire for money springs from a sense of financial insecurity."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "spring up",
+      "pos": "",
+      "definition": "appear or be produced suddenly and quickly 涌现",
+      "examples": [
+        "Thousands of new businesses have sprung up in this town over the past 20 years.",
+        "A new issue sprang up at yesterday’s meeting of the school board."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "strictly speaking",
+      "pos": "",
+      "definition": "being completely accurate, in actual fact 严格地讲",
+      "examples": [
+        "Strictly speaking, Great Britain consists of Scotland, Wales, and England, and the United Kingdom consists of Great Britain and Northern Ireland.",
+        "Strictly speaking, a tomato is a fruit, not a vegetable."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "strike out",
+      "pos": "",
+      "definition": "originate, devise; set out 创造，设计；启程",
+      "examples": [
+        "They at once struck out a new plan, and soon agreed that it was by far the best of all.",
+        "After hatching, the baby turtles struck out toward the ocean."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "tolerance",
+      "pos": "n.",
+      "definition": "willingness to accept 容忍，宽容",
+      "examples": [
+        "Your body will build up a tolerance to most drugs.",
+        "The large number of immigrants who flood this border region is testing its tradition of tolerance.",
+        "e.g. Your body will build up a tolerance to most drugs."
+      ],
+      "unit": "Book2 Unit 6"
+    },
+    {
+      "word": "accomplish",
+      "pos": "vt.",
+      "definition": "succeed in doing 完成，实现",
+      "examples": [
+        "You should accomplish the task within the allotted time."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "acknowledge",
+      "pos": "vt.",
+      "definition": "recognize or admit 承认",
+      "examples": [
+        "He acknowledged that he had made a mistake."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "acquire",
+      "pos": "vt.",
+      "definition": "get or gain 获得",
+      "examples": [
+        "She has acquired a good knowledge of English."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "ambitious",
+      "pos": "a.",
+      "definition": "having strong desire 有雄心的",
+      "examples": [
+        "She's very ambitious and hopes to become president of the company one day."
       ],
       "unit": "Unit 7"
     },
@@ -1404,20 +2607,20 @@
       "unit": "Unit 7"
     },
     {
-      "word": "harmony",
-      "pos": "n.",
-      "definition": "peaceful agreement 和谐",
+      "word": "confine",
+      "pos": "vt.",
+      "definition": "keep within limits 限制",
       "examples": [
-        "The couple lived together in perfect harmony for many years."
+        "Please confine your remarks to the subject we are discussing."
       ],
       "unit": "Unit 7"
     },
     {
-      "word": "sophisticated",
-      "pos": "a.",
-      "definition": "complex or refined 复杂的；老练的",
+      "word": "consequence",
+      "pos": "n.",
+      "definition": "result of an action 后果",
       "examples": [
-        "The company uses highly sophisticated machinery in its production process."
+        "You knew the consequences when you made that decision."
       ],
       "unit": "Unit 7"
     },
@@ -1431,11 +2634,56 @@
       "unit": "Unit 7"
     },
     {
+      "word": "criticize",
+      "pos": "vt.",
+      "definition": "find fault with 批评",
+      "examples": [
+        "He criticized my work, but he didn't offer any suggestions on how to improve it."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "enhance",
+      "pos": "vt.",
+      "definition": "improve the quality of 提高，增强",
+      "examples": [
+        "Good lighting enhances the beauty of a room."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "exaggerate",
+      "pos": "v.",
+      "definition": "make something seem bigger than it is 夸张",
+      "examples": [
+        "Don't exaggerate - it wasn't that expensive."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "harmony",
+      "pos": "n.",
+      "definition": "peaceful agreement 和谐",
+      "examples": [
+        "The couple lived together in perfect harmony for many years."
+      ],
+      "unit": "Unit 7"
+    },
+    {
       "word": "neutral",
       "pos": "a.",
       "definition": "not taking sides 中立的",
       "examples": [
         "Switzerland remained neutral during both World Wars."
+      ],
+      "unit": "Unit 7"
+    },
+    {
+      "word": "precise",
+      "pos": "a.",
+      "definition": "exact 精确的",
+      "examples": [
+        "I can't give you a precise date yet."
       ],
       "unit": "Unit 7"
     },
@@ -1458,20 +2706,11 @@
       "unit": "Unit 7"
     },
     {
-      "word": "consequence",
-      "pos": "n.",
-      "definition": "result of an action 后果",
+      "word": "sophisticated",
+      "pos": "a.",
+      "definition": "complex or refined 复杂的；老练的",
       "examples": [
-        "You knew the consequences when you made that decision."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "enhance",
-      "pos": "vt.",
-      "definition": "improve the quality of 提高，增强",
-      "examples": [
-        "Good lighting enhances the beauty of a room."
+        "The company uses highly sophisticated machinery in its production process."
       ],
       "unit": "Unit 7"
     },
@@ -1481,33 +2720,6 @@
       "definition": "enough 足够的",
       "examples": [
         "Do we have sufficient food for ten people?"
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "precise",
-      "pos": "a.",
-      "definition": "exact 精确的",
-      "examples": [
-        "I can't give you a precise date yet."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "acquire",
-      "pos": "vt.",
-      "definition": "get or gain 获得",
-      "examples": [
-        "She has acquired a good knowledge of English."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "accomplish",
-      "pos": "vt.",
-      "definition": "succeed in doing 完成，实现",
-      "examples": [
-        "You should accomplish the task within the allotted time."
       ],
       "unit": "Unit 7"
     },
@@ -1526,42 +2738,6 @@
       "definition": "keep going 维持，持续",
       "examples": [
         "The hope sustained him during the difficult times."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "criticize",
-      "pos": "vt.",
-      "definition": "find fault with 批评",
-      "examples": [
-        "He criticized my work, but he didn't offer any suggestions on how to improve it."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "acknowledge",
-      "pos": "vt.",
-      "definition": "recognize or admit 承认",
-      "examples": [
-        "He acknowledged that he had made a mistake."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "ambitious",
-      "pos": "a.",
-      "definition": "having strong desire 有雄心的",
-      "examples": [
-        "She's very ambitious and hopes to become president of the company one day."
-      ],
-      "unit": "Unit 7"
-    },
-    {
-      "word": "confine",
-      "pos": "vt.",
-      "definition": "keep within limits 限制",
-      "examples": [
-        "Please confine your remarks to the subject we are discussing."
       ],
       "unit": "Unit 7"
     }
