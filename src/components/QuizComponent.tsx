@@ -1,9 +1,10 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import { Question, QuizState } from '../types'
+import { Question } from '../types'
 import { calculateScore } from '../utils'
+import { ExtendedQuizState } from '../hooks/useQuiz'
 
 interface QuizComponentProps {
-  quizState: QuizState
+  quizState: ExtendedQuizState
   onSelectAnswer: (questionId: number, word: string) => void
   onSubmit: () => void
   onReset: () => void
@@ -70,30 +71,24 @@ function QuizComponent({
 
   const handleOptionClick = useCallback((word: string) => {
     if (!currentQuestion || showResults) return
-    const currentAnswer = quizState.answers[currentQuestion.id]
+    onSelectAnswer(currentQuestion.id, word)
 
-    if (currentAnswer === word) {
-      // Toggle off
-      onSelectAnswer(currentQuestion.id, '')
-    } else {
-      onSelectAnswer(currentQuestion.id, word)
-      // Auto advance to next unanswered question after a short delay
-      setTimeout(() => {
-        for (let i = currentIndex + 1; i < quizState.questions.length; i++) {
-          if (!quizState.answers[quizState.questions[i].id]) {
-            setCurrentIndex(i)
-            return
-          }
+    // Auto advance to next unanswered question after a short delay
+    setTimeout(() => {
+      for (let i = currentIndex + 1; i < quizState.questions.length; i++) {
+        if (!quizState.answers[quizState.questions[i].id]) {
+          setCurrentIndex(i)
+          return
         }
-        for (let i = 0; i < currentIndex; i++) {
-          if (!quizState.answers[quizState.questions[i].id]) {
-            setCurrentIndex(i)
-            return
-          }
+      }
+      for (let i = 0; i < currentIndex; i++) {
+        if (!quizState.answers[quizState.questions[i].id]) {
+          setCurrentIndex(i)
+          return
         }
-      }, 400)
-    }
-  }, [currentQuestion, showResults, quizState, currentIndex, onSelectAnswer])
+      }
+    }, 400)
+  }, [currentQuestion, showResults, currentIndex, quizState, onSelectAnswer])
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -279,7 +274,7 @@ function QuizComponent({
         </div>
       </div>
 
-      {/* Options with POS hint */}
+      {/* Options with POS hint and usage state */}
       <div className="card" style={{ marginBottom: '20px' }}>
         <h3 className="section-title" style={{ fontSize: '1.1rem', marginBottom: '16px' }}>
           📝 选择正确答案 <span style={{ fontWeight: 400, color: '#888', fontSize: '0.85rem' }}>(按数字键 1-{Math.min(quizState.options.length, 9)} 快速选择)</span>
@@ -294,7 +289,8 @@ function QuizComponent({
             const wordObj = quizState.questions.find(q => q.answer === word)?.word
             const pos = wordObj?.pos || ''
             const isSelected = currentAnswer === word
-            const isOtherSelected = currentAnswer && currentAnswer !== word
+            const usedByQuestionId = quizState.usedOptions[word]
+            const isUsedByOther = usedByQuestionId !== null && usedByQuestionId !== undefined && usedByQuestionId !== currentQuestion.id
 
             return (
               <button
@@ -302,18 +298,19 @@ function QuizComponent({
                 onClick={() => handleOptionClick(word)}
                 style={{
                   padding: '14px 16px',
-                  border: isSelected ? '2px solid #667eea' : '2px solid #e0e0e0',
+                  border: isSelected ? '2px solid #667eea' : isUsedByOther ? '2px solid #e0e0e0' : '2px solid #e0e0e0',
                   borderRadius: '12px',
-                  background: isSelected ? 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)' : 'white',
-                  color: isSelected ? 'white' : '#333',
+                  background: isSelected ? 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)' : isUsedByOther ? '#f5f5f5' : 'white',
+                  color: isSelected ? 'white' : isUsedByOther ? '#999' : '#333',
                   cursor: 'pointer',
                   transition: 'all 0.2s ease',
                   textAlign: 'left',
                   display: 'flex',
                   alignItems: 'center',
                   gap: '10px',
-                  opacity: isOtherSelected ? 0.6 : 1,
-                  boxShadow: isSelected ? '0 4px 12px rgba(102,126,234,0.3)' : 'none'
+                  opacity: isUsedByOther ? 0.7 : 1,
+                  boxShadow: isSelected ? '0 4px 12px rgba(102,126,234,0.3)' : 'none',
+                  position: 'relative'
                 }}
               >
                 <span style={{
@@ -323,21 +320,33 @@ function QuizComponent({
                   width: '24px',
                   height: '24px',
                   borderRadius: '6px',
-                  background: isSelected ? 'rgba(255,255,255,0.2)' : '#f0f0f0',
+                  background: isSelected ? 'rgba(255,255,255,0.2)' : isUsedByOther ? '#e0e0e0' : '#f0f0f0',
                   fontSize: '0.75rem',
                   fontWeight: 700,
                   flexShrink: 0
                 }}>
                   {idx + 1}
                 </span>
-                <div style={{ minWidth: 0 }}>
+                <div style={{ minWidth: 0, flex: 1 }}>
                   <div style={{ fontWeight: 600, fontSize: '1rem', wordBreak: 'break-word' }}>{word}</div>
                   {pos && (
-                    <div style={{ fontSize: '0.75rem', opacity: isSelected ? 0.8 : 0.5, marginTop: '2px' }}>
+                    <div style={{ fontSize: '0.75rem', opacity: isSelected ? 0.8 : isUsedByOther ? 0.5 : 0.5, marginTop: '2px' }}>
                       {pos}
                     </div>
                   )}
                 </div>
+                {isUsedByOther && (
+                  <span style={{
+                    fontSize: '0.65rem',
+                    background: '#ddd',
+                    color: '#666',
+                    padding: '2px 6px',
+                    borderRadius: '4px',
+                    whiteSpace: 'nowrap'
+                  }}>
+                    已用
+                  </span>
+                )}
               </button>
             )
           })}
