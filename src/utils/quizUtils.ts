@@ -9,65 +9,40 @@ export function shuffleArray<T>(array: T[]): T[] {
   return newArray;
 }
 
+function pickRandomExample(word: VocabularyData['words'][0]): string {
+  if (word.examples.length === 0) {
+    return `${word.word} is an important word.`;
+  }
+  const idx = Math.floor(Math.random() * word.examples.length);
+  return word.examples[idx];
+}
+
+function createBlankSentence(sentence: string, word: string): string {
+  // Escape special regex characters in word
+  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const regex = new RegExp(`\\b${escaped}\\b`, 'gi');
+  // If whole-word replacement fails, try substring replacement
+  let result = sentence.replace(regex, '_____');
+  if (result === sentence) {
+    // Fallback: case-insensitive substring replace
+    result = sentence.replace(new RegExp(escaped, 'gi'), '_____');
+  }
+  return result;
+}
+
 export function generateUnitQuiz(
   vocabulary: VocabularyData,
-  unitName: string
+  unitName: string,
+  questionCount?: number
 ): { questions: Question[]; options: string[] } {
   const unitWords = vocabulary.words.filter(w => w.unit === unitName);
-  const questions: Question[] = [];
-  
-  unitWords.forEach((word, idx) => {
-    const example = word.examples[0] || `${word.word} is an important word.`;
-    const sentence = createBlankSentence(example, word.word);
-    questions.push({
-      id: idx,
-      sentence,
-      answer: word.word,
-      word
-    });
-  });
-  
-  return {
-    questions: shuffleArray(questions),
-    options: shuffleArray(unitWords.map(w => w.word))
-  };
-}
+  const shuffled = shuffleArray(unitWords);
+  const targetWords = questionCount && questionCount < shuffled.length
+    ? shuffled.slice(0, questionCount)
+    : shuffled;
 
-export function generateMixedQuiz(
-  vocabulary: VocabularyData,
-  unitNames: string[]
-): { questions: Question[]; options: string[] } {
-  const selectedWords = vocabulary.words.filter(w => unitNames.includes(w.unit));
-  const questions: Question[] = [];
-  
-  selectedWords.forEach((word, idx) => {
-    const example = word.examples[0] || `${word.word} is an important word.`;
-    const sentence = createBlankSentence(example, word.word);
-    questions.push({
-      id: idx,
-      sentence,
-      answer: word.word,
-      word
-    });
-  });
-  
-  return {
-    questions: shuffleArray(questions),
-    options: shuffleArray(selectedWords.map(w => w.word))
-  };
-}
-
-export function generateSimulationQuiz(
-  vocabulary: VocabularyData
-): { questions: Question[]; options: string[] } {
-  const allWords = [...vocabulary.words];
-  const shuffledWords = shuffleArray(allWords);
-  
-  const targetWords = shuffledWords.slice(0, 15);
-  const distractorWords = shuffledWords.slice(15, 20);
-  
   const questions: Question[] = targetWords.map((word, idx) => {
-    const example = word.examples[0] || `${word.word} is an important word.`;
+    const example = pickRandomExample(word);
     const sentence = createBlankSentence(example, word.word);
     return {
       id: idx,
@@ -76,16 +51,63 @@ export function generateSimulationQuiz(
       word
     };
   });
-  
+
+  return {
+    questions,
+    options: shuffleArray(targetWords.map(w => w.word))
+  };
+}
+
+export function generateMixedQuiz(
+  vocabulary: VocabularyData,
+  unitNames: string[],
+  questionCount?: number
+): { questions: Question[]; options: string[] } {
+  const selectedWords = shuffleArray(vocabulary.words.filter(w => unitNames.includes(w.unit)));
+  const targetWords = questionCount && questionCount < selectedWords.length
+    ? selectedWords.slice(0, questionCount)
+    : selectedWords;
+
+  const questions: Question[] = targetWords.map((word, idx) => {
+    const example = pickRandomExample(word);
+    const sentence = createBlankSentence(example, word.word);
+    return {
+      id: idx,
+      sentence,
+      answer: word.word,
+      word
+    };
+  });
+
+  return {
+    questions,
+    options: shuffleArray(targetWords.map(w => w.word))
+  };
+}
+
+export function generateSimulationQuiz(
+  vocabulary: VocabularyData
+): { questions: Question[]; options: string[] } {
+  const allWords = shuffleArray([...vocabulary.words]);
+
+  const targetWords = allWords.slice(0, 15);
+  const distractorWords = allWords.slice(15, 20);
+
+  const questions: Question[] = targetWords.map((word, idx) => {
+    const example = pickRandomExample(word);
+    const sentence = createBlankSentence(example, word.word);
+    return {
+      id: idx,
+      sentence,
+      answer: word.word,
+      word
+    };
+  });
+
   return {
     questions: shuffleArray(questions),
     options: shuffleArray([...targetWords.map(w => w.word), ...distractorWords.map(w => w.word)])
   };
-}
-
-function createBlankSentence(sentence: string, word: string): string {
-  const regex = new RegExp(`\\b${word}\\b`, 'gi');
-  return sentence.replace(regex, '_____');
 }
 
 export function calculateScore(

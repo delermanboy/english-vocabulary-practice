@@ -32,6 +32,27 @@ export function useQuiz() {
     }));
   }, []);
 
+  const goToQuestion = useCallback((index: number) => {
+    setQuizState(prev => ({
+      ...prev,
+      currentQuestion: Math.max(0, Math.min(index, prev.questions.length - 1))
+    }));
+  }, []);
+
+  const nextQuestion = useCallback(() => {
+    setQuizState(prev => ({
+      ...prev,
+      currentQuestion: Math.min(prev.currentQuestion + 1, prev.questions.length - 1)
+    }));
+  }, []);
+
+  const prevQuestion = useCallback(() => {
+    setQuizState(prev => ({
+      ...prev,
+      currentQuestion: Math.max(prev.currentQuestion - 1, 0)
+    }));
+  }, []);
+
   const submitQuiz = useCallback((score: number) => {
     setQuizState(prev => ({
       ...prev,
@@ -55,6 +76,9 @@ export function useQuiz() {
     quizState,
     initializeQuiz,
     selectAnswer,
+    goToQuestion,
+    nextQuestion,
+    prevQuestion,
     submitQuiz,
     resetQuiz
   };
